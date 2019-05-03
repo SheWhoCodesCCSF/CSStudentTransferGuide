@@ -1,0 +1,127 @@
+
+
+
+
+
+
+
+ ASSIST: By Major Report 
+
+
+
+
+                        Articulation Agreement by Major                         
+                    Effective during the 16-17 Academic Year                    
+     
+                         ====Computer Science - BS====                          
+Assist.org is currently undergoing system changes.  As a result, the website
+only displays information for articulation agreements for 2016-2017 and prior
+academic years.  For information on course to course agreements starting in Fall
+2017, please refer to the Cal State LA Transfer Equivalencies webpage.
+                                                                                
+For the latest information regarding major agreements, visit the Cal State LA
+University Catalog.  The catalog will provide you with the most updated
+information about our majors, including minimum grade requirements, course
+prerequisites and descriptions, a full list of elective courses and upper
+division GE requirements and any other additional graduation requirements.
+--------------------------------------------------------------------------------
+THIS PROGRAM AT CAL STATE LA HAS MAJOR-SPECIFIC CRITERIA EFFECTIVE FALL
+2018. AS A RESULT, THIS PROGRAM WILL HAVE MAJOR-SPECIFIC ADMISSIONS REQUIREMENTS
+IN THE FORM OF A LIST OF MAJOR PREPARATION COURSEWORK AND GPA REQUIREMENTS.
+                                                                                
+PLEASE REFER TO OUR ADMISSIONS WEBSITE FOR THESE MAJOR-SPECIFIC-CRITERIA
+DETAILS AT: http://www.calstatela.edu/admissions/major-specific-criteria or
+right click major-specific-criteria link to open in a new window.
+--------------------------------------------------------------------------------
+The total number of units required for the Bachelor of Science degree in
+Computer Science is  120 units, of which  90 units are in the major.  Consult
+with an advisor in the department for the specific number of units required in
+all areas of the degree, including GE and free electives.
+                                                                                
+--------------------------------------------------------------------------------
+General Education Requirements (48 units, of which 21 units are in the major)   
+IHE - Introduction to Higher Education for Computer Science Majors - CS1010 (3) 
+                                                                                
+Oral Communication (3)                                                          
+                                                                                
+Written Communication (3)                                                       
+                                                                                
+Critical Thinking and Composition (3)                                           
+                                                                                
+Critical Thinking : Met by CS2011(3), CS3801(3), CS3337(3), CS3186(3),
+CS4961(2), CS4962 (2)
+                                                                                
+2nd Composition - Met by ENGL2030 (3)                                           
+Quantitative Reasoning and Mathematical Concepts (3) - Met by MATH2110(4)       
+American Institutions - US History (3)                                          
+American Institutions - US Constitution and State/Local Govt. (3)               
+Natural Science (6 units):                                                      
+Physical Science (B1) requirement (3) - Met by PHYS 2100 (5)                    
+Select one course  from Biological science (B2) OR Interdisciplinary
+Physical-Biological science (B3) (3)
+Arts and Humanities (6 units):                                                  
+Select 3 units from arts (C1)                                                   
+Additional 3 unit Humanities requirement met by CS 3801 (3)                     
+Social Science (6 units):                                                       
+Select 6 units                                                                  
+--------------------------------------------------------------------------------
+Requirements for the major                                                      
+                                                                                
+A grade of "C" or better is required for all prerequisite courses in the major. 
+--------------------------------------------------------------------------------
+LOWER DIVISION REQUIRED COURSES                                          
+--------------------------------------------------------------------------------
+CS 1222    Introduction to Relational (3)|CS 150A    SQL Server Databases    (3)
+           Databases                     |                                      
+                                         |   OR 
+                                         |CS 155A    MySQL Databases         (3)
+--------------------------------------------------------------------------------
+CS 2011    Introduction to            (3)|CS 110B    Programming             (4)
+           Programming I                 |           Fundamentals: C++ 
+                                         |   OR 
+                                         |CS 111A    Introduction to         (4)
+                                         |           Programming: Java 
+--------------------------------------------------------------------------------
+CS 2012    Introduction to            (3)|CS 111B    Programming             (4)
+           Programming II                |           Fundamentals: Java 
+--------------------------------------------------------------------------------
+CS 2013    Programming with Data      (3)|CS 111C    Data Structures and     (4)
+           Structures                    |           Algorithms: Java 
+--------------------------------------------------------------------------------
+CS 2148    Discrete Structures        (3)|                                      
+--------------------------------------------------------------------------------
+ENGL 2030    Introduction to          (3)|                                      
+             Technical Writing           |                                      
+--------------------------------------------------------------------------------
+MATH 2110    Calculus I               (4)|MATH 110A    Calculus I            (5)
+--------------------------------------------------------------------------------
+MATH 2120    Calculus II              (4)|MATH 110B    Calculus II           (5)
+--------------------------------------------------------------------------------
+MATH 2550    Introduction to Linear   (3)|MATH 120    Linear Algebra         (3)
+             Algebra                     |                                      
+--------------------------------------------------------------------------------
+PHYS 2100    General Physics I:       (5)|                                      
+             Mechanics and               |                                      
+             Thermodynamics              |                                      
+Note:  New Title Effective Fall 2016 -   |                                      
+Physics I: Mechanics                     |                                      
+--------------------------------------------------------------------------------
+PHYS 2200    General Physics II:      (5)|                                      
+             Electromagnetism and        |                                      
+             Optics                      |                                      
+Note:  New Title Effective Fall 2016 -   |                                      
+General Physics II:  Electromagnetism and|                                      
+Circuits                                 |                                      
+--------------------------------------------------------------------------------
+ELECTIVE COURSES                                                         
+--------------------------------------------------------------------------------
+Mathematics Electives (3 Units)                                                 
+                                                                                
+Select 3 units of lower division or upper division course(s) in the Mathematics
+area with prior approval of the Computer Science undergraduate advisor.
+--------------------------------------------------------------------------------
+END OF MAJOR
+  
+Questions about this agreement may be sent to articulation@calstatela.edu       
+
+

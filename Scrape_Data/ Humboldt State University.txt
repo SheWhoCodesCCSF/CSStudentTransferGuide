@@ -1,0 +1,77 @@
+
+
+
+
+
+
+
+ ASSIST: By Major Report 
+
+
+
+
+                        Articulation Agreement by Major                         
+                    Effective during the 16-17 Academic Year                    
+     
+                            ====Computer Science====                            
+   The following are the LOWER DIVISION REQUIREMENTS for this major.
+--------------------------------------------------------------------------------
+A minimum grade of C- must be earned in all courses required for the major.     
+Prerequisite courses must be passed with a minimum grade of C-.                 
+--------------------------------------------------------------------------------
+Lower division:                                                                 
+--------------------------------------------------------------------------------
+CS 111    Computer Science            (4)|CS 110A    Introduction to         (4)
+          Foundations 1                  |           Programming C++ 
+                                         |   OR 
+                                         |CS 111B    Programming             (4)
+                                         |           Fundamentals: Java 
+--------------------------------------------------------------------------------
+CS 112    Computer Science            (4)|CS 110B    Programming             (4)
+          Foundations 2                  |           Fundamentals: C++ 
+                                         |   OR 
+                                         |CS 111B    Programming             (4)
+                                         |           Fundamentals: Java 
+--------------------------------------------------------------------------------
+CS 211    Data Structures             (4)|CS 110C    Data Structures and     (4)
+                                         |           Algorithms: C++ 
+                                         |   OR 
+                                         |CS 111C    Data Structures and     (4)
+                                         |           Algorithms: Java 
+--------------------------------------------------------------------------------
+CS 212    Algorithms                  (4)|No Course Articulated 
+--------------------------------------------------------------------------------
+CS 243    Architecture                (4)|CS 270    Computer Architecture    (4)
+                                         |          with Assembly Language 
+--------------------------------------------------------------------------------
+STAT 108    Elementary Statistics     (4)|MATH 80    Probability and         (4)
+                                         |           Statistics 
+--------------------------------------------------------------------------------
+MATH 105    Calculus for the          (3)|MATH 100A    Short Calculus I      (3)
+            Biological Sciences and      |                                      
+            Natural Resources            |                                      
+                   OR                    |                  OR                  
+MATH 109    Calculus I                (4)|MATH 110A    Calculus I            (5)
+--------------------------------------------------------------------------------
+MATH 253    Discrete Mathematics      (3)|MATH 115    Discrete Mathematics   (3)
+--------------------------------------------------------------------------------
+Choose two of the following: 
+The following lower division course(s) may be taken to fulfill major
+requirements. See the HSU Catalog for upper division course options.
+CS 232    Python Programming          (3)|No Course Articulated 
+CS 235    Java Programming            (3)|No Course Articulated 
+CS 237    Bioinformatics Programming  (3)|No Course Articulated 
+CS 279    Introduction to Linux       (4)|No Course Articulated 
+CS 280    Selected Topics in        (1-3)|No Course Articulated 
+          Computing                      |                                      
+                   AND                   |                 AND                  
+CS 280L    Selected Topics in       (1-2)|No Course Articulated 
+           Computing                     |                                      
+--------------------------------------------------------------------------------
+END OF MAJOR
+  
+THE ABOVE ARTICULATION AGREEMENT IS SUBJECT TO PERIODIC REVISION. PLEASE CONSULT
+A COUNSELOR EVERY SEMESTER TO OBTAIN CURRENT INFORMATION ABOUT POSSIBLE CHANGES
+IN THE AGREEMENT.
+
+

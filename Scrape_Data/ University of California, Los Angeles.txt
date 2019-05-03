@@ -1,0 +1,132 @@
+
+
+                        Articulation Agreement by Major
+                    Effective during the 16-17 Academic Year
+
+                 ====Computer Science and Engineering/B.S.====
+Admission to the Henry Samueli School of Engineering and Applied Science
+(HSSEAS) at UCLA is highly competitive. The most important selection criteria
+are completion of the required preparatory courses and academic performance. A
+minimum transferable cumulative GPA of 3.30 is required for consideration.
+Effective Fall 2017, all applicants must have a minimum transferable cumulative
+gpa of 3.4. Preparatory courses should be completed by the end of the Spring
+term prior to Fall enrollment. All major-preparation courses must be taken for a
+letter grade. HSSEAS admits students by major and does not consider applicants
+for alternate majors.
+
+Applicants are not required to complete the HSSEAS General Education
+Requirements in order to be admitted, although it is beneficial for students to
+complete 1 course from each of the following areas: arts, humanities, social
+sciences, and life sciences. Applicants to specific majors can fulfill the lower
+division Breadth and General Education requirements by completion of the
+Intersegmental General Education Transfer Curriculum(IGETC). Partial IGETC is
+NOT accepted.
+
+
+For more information regarding IGETC acceptance, this major and UCLA's transfer
+selection process, please refer to www.engineer.ucla.edu and
+www.admissions.ucla.edu. If you still have specific questions, you may email the
+HSSEAS admission office at erkki@seas.ucla.edu.
+
+PLEASE NOTE: The community college courses listed below have been approved to
+satisfy the preparation requirements for this major at UCLA, but they may not be
+exact equivalents of the UCLA courses listed.
+--------------------------------------------------------------------------------
+The following courses are REQUIRED for admission to this major
+--------------------------------------------------------------------------------
+MATH 31A    Differential and Integral (4)|MATH 110A    Calculus I            (5)
+            Calculus                     |
+--------------------------------------------------------------------------------
+MATH 31B    Integration and Infinite  (4)|MATH 110B    Calculus II           (5)
+            Series                       |
+--------------------------------------------------------------------------------
+MATH 32A    Calculus of Several       (4)|MATH 110C    Calculus III          (5)
+            Variables                    |
+--------------------------------------------------------------------------------
+MATH 32B    Calculus of Several       (4)|MATH 110C    Calculus III          (5)
+            Variables                    |
+--------------------------------------------------------------------------------
+MATH 33A    Linear Algebra and        (4)|MATH 120    Linear Algebra         (3)
+            Applications                 |
+                                         |   OR
+                                         |MATH 130    Linear Algebra and     (5)
+                                         |            Differential Equations
+--------------------------------------------------------------------------------
+MATH 33B    Differential Equations    (4)|MATH 125    Differential Equations (3)
+                                         |   OR
+                                         |MATH 130    Linear Algebra and     (5)
+                                         |            Differential Equations
+--------------------------------------------------------------------------------
+NOTE: You should complete the entire Physics Series at one community college (or
+at community colleges within the same district where courses are exact
+equivalents).
+PHYSICS 1A  &  Physics for Scientists (5)|PHYC 4A  &  Classical Mechanics    (3)
+               and Engineers:            |            for Scientists and
+               Mechanics                 |            Engineers
+PHYSICS 4AL    Physics Laboratory for (2)|PHYC 4AL    Mechanics Laboratory   (1)
+               Scientists and            |            for Scientists and
+               Engineers: Mechanics      |            Engineers
+                   AND                   |                 AND
+PHYSICS 1B  &  Physics for Scientists (5)|PHYC 4B  &  Electromagnetism for   (3)
+               and Engineers:            |            Scientists and
+               Oscillations, Waves,      |            Engineers
+               Electric and Magnetic     |
+               Fields                    |
+PHYSICS 4BL &  Physics Laboratory for (2)|PHYC 4BL &  Electromagnetism       (1)
+               Scientists and            |            Laboratory for
+               Engineers: Electricity    |            Scientists and
+               and Magnetism             |            Engineers
+PHYSICS 1C     Physics for Scientists (5)|PHYC 4C  &  Waves and              (3)
+               and Engineers:            |            Thermodynamics for
+               Electrodynamics,          |            Scientists and
+               Optics, and Special       |            Engineers
+               Relativity                |
+                                         |PHYC 4CL    Waves and              (1)
+                                         |            Thermodynamics
+                                         |            Laboratory for
+                                         |            Scientists and
+                                         |            Engineers
+--------------------------------------------------------------------------------
+ENGCOMP 3    English Composition,     (5)|ENGL 1A    University-Parallel     (3)
+             Rhetoric, and Language      |           Reading and Composition
+                   AND                   |                 AND
+One additional course in English         |ENGL 1B    Reading, Writing and    (3)
+composition                              |           Critical Thinking about
+                                         |           Literature
+                                         |   OR
+                                         |ENGL 1C    Advanced Composition    (3)
+--------------------------------------------------------------------------------
+One course in computer programming:      |CS 110B    Programming             (4)
+C++ is preferred for this major          |           Fundamentals: C++
+                                         |
+                                         |   OR
+                                         |ENGN 38    Introduction to         (3)
+                                         |           Programming Concepts
+                                         |           and Methodologies for
+                                         |           Engineers
+NOTE: A course equivalent to UCLA's Computer Science 31 will be accepted towards
+this requirement.
+--------------------------------------------------------------------------------
+Listed below are additional degree requirements for this major that are
+strongly recommended and can be met with community college courses:
+--------------------------------------------------------------------------------
+COM SCI 31    Introduction to         (4)|ENGN 38    Introduction to         (3)
+              Computer Science I         |           Programming Concepts
+                                         |           and Methodologies for
+                                         |           Engineers
+--------------------------------------------------------------------------------
+COM SCI 32    Introduction to         (4)|CS 110C    Data Structures and     (4)
+              Computer Science II        |           Algorithms: C++
+--------------------------------------------------------------------------------
+COM SCI 33    Introduction to         (5)|CS 270    Computer Architecture    (4)
+              Computer Organization      |          with Assembly Language
+--------------------------------------------------------------------------------
+COM SCI M51A    Logic Design of       (4)|No course articulated
+                Digital Systems          |
+--------------------------------------------------------------------------------
+MATH 61    Introduction to Discrete   (4)|MATH 115    Discrete Mathematics   (3)
+           Structures                    |
+--------------------------------------------------------------------------------
+END OF MAJOR
+
+

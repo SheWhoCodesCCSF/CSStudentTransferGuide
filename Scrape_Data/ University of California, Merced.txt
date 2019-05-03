@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+ ASSIST: By Major Report 
+
+
+
+
+                        Articulation Agreement by Major                         
+                    Effective during the 16-17 Academic Year                    
+                Based on the 16-17 UC Transfer Course Agreement                 
+     
+                 ====Computer Science and Engineering, B.S.====                 
+                                                                             
+                             School of Engineering                          
+--------------------------------------------------------------------------------
+For admission to the Computer Science & Engineering major, students must earn an
+overall GPA of 2.4 or better, demonstrate readiness for a rigorous course of
+study in engineering, and must complete classes articulated with the following
+UC Merced courses prior to admission:
+                                                                                
+ CSE 20 & 21, (CSE major must complete CSE 20 & 21 with grades of B or better),
+ MATH 21, MATH 22, MATH 23, MATH 24, PHYS 8, and PHYS 9
+                                                                                
+--------------------------------------------------------------------------------
+                                                                                
+Transfer students seeking fall admission should have the following completed by
+the end of the spring term preceding fall enrollment at UC Merced:
+                                                                                
+1. All Major preparation requirements as stated above.                          
+2. All minimum admission requirements including appropriate courses in math     
+   and the equivalent of WRI 1 and WRI 10 (see articulation by department).     
+3. At least one course from the "Arts and Humanities" or "Social and Behavioral 
+   Sciences" section of the General Education Articulation Agreement for        
+   UC Merced's School of Engineering, shown here:                               
+                                                                                
+Three Arts and Humanities courses        |Any UC transferable courses identified
+with at least one from each area.        |in IGETC Areas 3A (Arts), 
+                                         |3B (Humanities) 
+                   AND                   |                 AND                  
+Three courses in Social and Behavioral   |Any UC transferable courses identified
+Sciences with courses from two or more   |in IGETC Areas 4A 
+areas.                                   |(Anthropology and Archaeology), 
+                                         |4B (Economics), 4C 
+                                         |(Ethnic Studies), 4D 
+                                         |(Gender Studies), 4E 
+                                         |(Geography), 4F 
+                                         |(History),4G 
+                                         |(Interdisciplinary, Social and 
+                                         |Behavioral Sciences), 4H 
+                                         |(Political Science, Government and 
+                                         |Legal Institutions), 4I 
+                                         |(Psychology) or 4J (Sociology 
+                                         |and Criminology). 
+NOTE:  Completion of IGETC (certified by your community college) satisfies all
+of the above requirements.
+                                                                                
+--------------------------------------------------------------------------------
+Advanced Placement (AP) and International Baccalaureate (IB) Examination Note:  
+AP and IB examination credit policies are detailed in the 2016-17 UC Merced
+General Catalog, viewable online at:
+                                                                                
+ http://catalog.ucmerced.edu/content.php?catoid=7&navoid=647#AP_IB
+--------------------------------------------------------------------------------
+*ALERT*  It is strongly recommended that you obtain a full transcript of your
+academic records from each of the colleges and universities you have attended
+before you start your UC application.  Applicants must report ALL grades, in all
+courses--transferable and not transferable--from all institutions attended.
+Applicants are solely responsible for the integrity of their self-reported
+academic record in the UC application.
+                                                                                
+Applicants will not be competitive in the admission process if their academic
+records show unsuccessful attempts of UC-transferable courses, as demonstrated
+by one or more of the following:
+                                                                                
+   *  Multiple withdrawals in preparation for major courses, or                 
+   *  More than one repeat of major preparation courses where grades of No Pass,
+      D, or F were received or                                                  
+   *  Unrepeated No Pass, D, or F grades in any UC-transferable course          
+                                                                                
+Following these guidelines will assist you to be more competitive for admission
+to your UC Merced major.
+                                                                                
+If you have any questions about UC Merced admissions policy,                    
+please email: admissions@ucmerced.edu.                                          
+--------------------------------------------------------------------------------
+The School of Engineering strongly discourages completion of IGETC as students
+are encouraged to focus primarily on lower division major preparation.
+--------------------------------------------------------------------------------
+All course work must be completed with a letter grade of "C" or better.         
+                                                                                
+--------------------------------------------------------------------------------
+The following course work represents all lower division major preparation:      
+--------------------------------------------------------------------------------
+CSE 20    Introduction to Computing I (2)|ENGN 38    Introduction to         (3)
+                                         |           Programming Concepts 
+                                         |           and Methodologies for 
+                                         |           Engineers 
+                                         |   OR 
+*CSE majors must earn a B or better      |CS 110A    Introduction to         (4)
+grade.*                                  |           Programming C++ 
+                                         |   OR 
+                                         |CS 111A    Introduction to         (4)
+                                         |           Programming: Java 
+                                         |   OR 
+                                         |CS 131A    Python Programming      (4)
+--------------------------------------------------------------------------------
+CSE 21    Introduction to Computing   (2)|CS 110A    Introduction to         (4)
+          II                             |           Programming C++ 
+                                         |   OR 
+*CSE majors must earn a B or better      |CS 111A    Introduction to         (4)
+grade.*                                  |           Programming: Java 
+                                         |   OR 
+                                         |CS 131A    Python Programming      (4)
+--------------------------------------------------------------------------------
+CSE 30    Data Structures             (4)|CS 110C    Data Structures and     (4)
+                                         |           Algorithms: C++ 
+--------------------------------------------------------------------------------
+CSE 31    Computer Organization and   (4)|CS 270    Computer Architecture    (4)
+          Assembly Language              |          with Assembly Language 
+--------------------------------------------------------------------------------
+MATH 21    Calculus I for Physical    (4)|MATH 110A    Calculus I            (5)
+           Sciences & Engineering        |                                      
+--------------------------------------------------------------------------------
+MATH 22    Calculus II for Physical   (4)|MATH 110B    Calculus II           (5)
+           Sciences & Engineering        |                                      
+--------------------------------------------------------------------------------
+MATH 23    Vector Calculus            (4)|MATH 110C    Calculus III          (5)
+--------------------------------------------------------------------------------
+MATH 24    Introduction to Linear     (4)|MATH 130    Linear Algebra and     (5)
+           Algebra and Differential      |            Differential Equations 
+           Equations                     |                                      
+                                         |   OR 
+                                         |MATH 120 &  Linear Algebra         (3)
+                                         |MATH 125    Differential Equations (3)
+--------------------------------------------------------------------------------
+MATH 32    Probability and Statistics (4)|No Course Articulated 
+**Recommended:  Take MATH 32 at UC Merced|                                      
+after transfer.  MATH 32 has a Vector    |                                      
+Calculus prerequisite.**                 |                                      
+--------------------------------------------------------------------------------
+PHYS 8    Introductory Physics I for  (4)|PHYC 2A  &  Introductory Physics   (3)
+          Physical Sciences              |                                      
+                                         |PHYC 2AL &  Introductory Physics   (1)
+                                         |            Laboratory 
+                                         |PHYC 2AC    Introductory Physics  (.5)
+                                         |            - Calculus Supplement 
+                                         |   OR 
+                                         |PHYC 4A  &  Classical Mechanics    (3)
+                                         |            for Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4AL    Mechanics Laboratory   (1)
+                                         |            for Scientists and 
+                                         |            Engineers 
+--------------------------------------------------------------------------------
+PHYS 9    Introductory Physics II for (4)|PHYC 2B  &  Introductory Physics   (3)
+          Physical Sciences              |                                      
+                                         |PHYC 2BL &  Introductory Physics   (1)
+                                         |            Laboratory 
+                                         |PHYC 2BC    Introductory Physics  (.5)
+                                         |            - Calculus Supplement 
+                                         |   OR 
+                                         |PHYC 4B  &  Electromagnetism for   (3)
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4BL    Electromagnetism       (1)
+                                         |            Laboratory for 
+                                         |            Scientists and 
+                                         |            Engineers 
+--------------------------------------------------------------------------------
+                                                                             
+*PLEASE NOTE: Courses used to satisfy lower-division major preparation may
+simultaneously satisfy lower-division general education for the School of
+Engineering.
+                                                                                
+--------------------------------------------------------------------------------
+For the most up-to-date information about transferring to UC Merced, please
+visit c.ucm.edu/transfer. Information about applying for a Transfer Admission
+Guarantee is available at c.ucm.edu/tag.
+                                                                                
+                                                                                
+                                                                                
+--------------------------------------------------------------------------------
+END OF MAJOR
+
+

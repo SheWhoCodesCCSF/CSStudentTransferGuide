@@ -1,0 +1,580 @@
+
+
+
+
+
+
+
+ ASSIST: By Major Report 
+
+
+
+
+                        Articulation Agreement by Major                         
+                    Effective during the 16-17 Academic Year                    
+                Based on the 16-17 UC Transfer Course Agreement                 
+     
+            ====Computer Science with Business Applications B.S.====            
+                                                                                
+All majors in the Bourns College of Engineering are selective, based on academic
+preparation and GPA in all transferable coursework, with a minimum GPA of 2.80.
+(This is a baseline GPA for consideration and not a guarantee of admission).
+                                                                                
+As shown below, certain major course preparation is required prior to transfer,
+with a GPA of at least 2.50 in the calculus sequence, and in at least one
+additional sequence.
+                                                                                
+The Bourns College of Engineering (BCOE) accepts completion of IGETC as
+satisfying the college's lower division general education/breadth requirements
+for transfer students.  Additional upper division breadth requirements may be
+required after enrollment in BCOE.  For more information on BCOE breadth
+requirements, go to
+http://student.engr.ucr.edu/policies/requirements/breadth.html
+                                                                                
+Prospective applicants are strongly encouraged to focus instead on preparatory
+course work for the major, such as the mathematics, science and other technical
+preparatory course work listed below, rather than IGETC.  Strong technical
+preparation is essential for success in the admissions process, and
+subsequently, in all coursework at BCOE.
+                                                                                
+For more information regarding this major and UCR's transfer selection process,
+please visit
+http://www.engr.ucr.edu/undergrads/transferring/Transfer2011-2012.html
+                                                                            
+For information about the UC Transfer Admission Guarantee (TAG) program, please
+visit http://admission.universityofcalifornia.edu/transfer/guarantee/index.html
+                                                                                
+                                                                             
+                         LOWER DIVISION MAJOR REQUIREMENTS:          
+                                                                                
+                                                                             
+                              REQUIRED FOR ADMISSION:                           
+                                                                            
+--------------------------------------------------------------------------------
+CS 10    Intro to Computer Science    (4)|CS 110A    Introduction to         (4)
+         for Science, Mathematics,       |           Programming C++ 
+         and Engineering I               |                                      
+                                         |                                      
+(Note:  A score of 3, 4 or 5 on the AP   |                                      
+Computer Science "A" or "AB" Exam will   |                                      
+satisfy CS 10)                           |                                      
+--------------------------------------------------------------------------------
+BUS 20    Financial Accounting and    (4)|ACCT 1    Financial Accounting     (5)
+          Reporting                      |                                      
+--------------------------------------------------------------------------------
+MATH 9A &  First-Year Calculus        (4)|MATH 110A &  Calculus I            (5)
+MATH 9B &  First-Year Calculus        (4)|MATH 110B    Calculus II           (5)
+MATH 9C    First-Year Calculus        (4)|                                      
+                                         |                                      
+Note: A score of 3, 4 or 5 on the AP     |                                      
+Mathematics AB Exam,(or the AB Subscore  |                                      
+of the BC Exam) will satisfy Math 9A.  A |                                      
+score of 3, 4 or 5 on the AP Mathematics |                                      
+BC Exam will satisfy Math 9A and 9B.     |                                      
+                                         |                                      
+                                                                                
+(Advanced Placement coursework may be accepted in lieu of some calculus course
+work.  Consult the College of Engineering at
+                                                                                
+http://student.engr.ucr.edu/policies/ap_ibcredit.html
+                                                                                
+or call the College at (951) 827-3647.                                          
+                                                                                
+--------------------------------------------------------------------------------
+                                                                                
+                         ALSO REQUIRED PRIOR TO ADMISSION                    
+      COMPLETE THE EQUIVALENT OF AT LEAST THREE OF THE FOLLOWING UCR COURSES:
+                                                                                
+--------------------------------------------------------------------------------
+CS 11      Intro to Discrete          (4)|MATH 115    Discrete Mathematics   (3)
+           Structures                    |                                      
+   Same as: MATH 11                      |                                      
+   OR                                    |                                      
+MATH 11    Intro to Discrete          (4)|                                      
+           Structures                    |                                      
+   Same as: CS 11                        |                                      
+--------------------------------------------------------------------------------
+CS 12    Intro to Computer Science    (4)|CS 110B    Programming             (4)
+         for Science, Mathematics,       |           Fundamentals: C++ 
+         and Engineering II              |                                      
+                                         |                                      
+(Note:  A score of 3, 4 or 5 on the AP   |                                      
+Computer Science "AB" Exam will satisfy  |                                      
+CS 12)                                   |                                      
+                                         |                                      
+--------------------------------------------------------------------------------
+CS 14    Intro to Data Structures and (4)|CS 110C    Data Structures and     (4)
+         Algorithms                      |           Algorithms: C++ 
+--------------------------------------------------------------------------------
+CS 61    Machine Organization and     (4)|CS 270    Computer Architecture    (4)
+         Assembly Language               |          with Assembly Language 
+         Programming                     |                                      
+--------------------------------------------------------------------------------
+ECON 2    Intro to Macroeconomics     (5)|ECON 1    Principles of            (3)
+                                         |          Macroeconomics 
+(Note:  A score or 3, 4 or 5 on the AP   |                                      
+Macroeconomics Exam will satisfy Econ 2) |                                      
+                                         |                                      
+--------------------------------------------------------------------------------
+ECON 3    Intro to Microeconomics     (5)|ECON 3    Principles of            (3)
+                                         |          Microeconomics 
+(Note:  A score of 3, 4 or 5 on the AP   |                                      
+Microeconomics Exam will satisfy Econ 3) |                                      
+--------------------------------------------------------------------------------
+                                                                             
+             STRONGLY RECOMMENDED ADVANCED PREPARATION COURSES           
+(If they have not been completed as course choices in the "required" section
+above.)
+                                                                                
+In addition to the required coursework above, students are strongly encouraged
+to complete as much as possible of the additional lower division course
+preparation listed below.  Completion of this coursework prior to enrollment
+will faciliate a student's readiness for upper division work, allowing the
+student to finish all degree requirements within two years of enrollment at UCR
+(provided that satisfactory progress and a full-time study load is maintained).
+                                                                                
+--------------------------------------------------------------------------------
+CS 11      Intro to Discrete          (4)|MATH 115    Discrete Mathematics   (3)
+           Structures                    |                                      
+   Same as: MATH 11                      |                                      
+   OR                                    |                                      
+MATH 11    Intro to Discrete          (4)|                                      
+           Structures                    |                                      
+   Same as: CS 11                        |                                      
+--------------------------------------------------------------------------------
+CS 12    Intro to Computer Science    (4)|CS 110B    Programming             (4)
+         for Science, Mathematics,       |           Fundamentals: C++ 
+         and Engineering II              |                                      
+                                         |                                      
+(Note:  A score of 3, 4 or 5 on the AP   |                                      
+Computer Science "AB" Exam will satisfy  |                                      
+CS 12)                                   |                                      
+                                         |                                      
+--------------------------------------------------------------------------------
+CS 14    Intro to Data Structures and (4)|CS 110C    Data Structures and     (4)
+         Algorithms                      |           Algorithms: C++ 
+--------------------------------------------------------------------------------
+CS 61    Machine Organization and     (4)|CS 270    Computer Architecture    (4)
+         Assembly Language               |          with Assembly Language 
+         Programming                     |                                      
+--------------------------------------------------------------------------------
+ECON 2    Intro to Macroeconomics     (5)|ECON 1    Principles of            (3)
+                                         |          Macroeconomics 
+(Note:  A score or 3, 4 or 5 on the AP   |                                      
+Macroeconomics Exam will satisfy Econ 2) |                                      
+                                         |                                      
+--------------------------------------------------------------------------------
+ECON 3    Intro to Microeconomics     (5)|ECON 3    Principles of            (3)
+                                         |          Microeconomics 
+(Note:  A score of 3, 4 or 5 on the AP   |                                      
+Microeconomics Exam will satisfy Econ 3) |                                      
+--------------------------------------------------------------------------------
+MATH 10A    Calculus of Several       (4)|MATH 110C    Calculus III          (5)
+            Variables                    |                                      
+--------------------------------------------------------------------------------
+MATH 31    Applied Linear Algebra     (5)|MATH 120    Linear Algebra         (3)
+--------------------------------------------------------------------------------
+BIOL 2    Cellular Basis of Life      (4)|No Course Articulated 
+                   OR                    |                  OR                  
+BIOL 3    Organisms in Their          (4)|BIO 11    The Science of Living    (4)
+          Environment                    |          Organisms 
+                   OR                    |                  OR                  
+BIOL 5A  &  Intro to Cell and         (4)|BIO 100A    General Biology        (6)
+            Molecular Biology            |                                      
+BIOL 5LA    Intro to Cell and         (1)|                                      
+            Molecular Biology Lab        |                                      
+                                                                                
+(Note:  The Biology requirement listed above is a breadth requirement, not a
+lower division major requirement.)
+                                                                                
+--------------------------------------------------------------------------------
+                                                                                
+Complete five of the Humanities or Natural Science breadth courses listed below
+prior to transfer.
+                                                                                
+--------------------------------------------------------------------------------
+                                                                                
+                                                                                
+_________________COURSES TO BE COMPLETED AFTER TRANSFER:_____________________
+                                                                                
+ENGR 1M    Professional Development   (1)|No Course Articulated 
+           and Mentoring, Business       |                                      
+           Informatics                   |                                      
+--------------------------------------------------------------------------------
+                                                                             
+IGETC                                                                       
+                                                                                
+The Bourns College of Engineering (BCOE) accepts completion of IGETC as
+satisfying the majority of the college's breadth requirements for transfer
+students.  Some additional breadth coursework may be required after enrollment
+at Bourns.  For more information on BCOE breadth requirements, go to
+ http://student.engr.ucr.edu/policies/requirements/breadth.html
+BREADTH REQUIREMENTS FOR THE COLLEGE OF ENGINEERING               
+                                                                                
+The following is a list of lower division courses which fulfill the College     
+of Engineering breadth requirements, and which are routinely articulated at     
+the community colleges.  (This is not a comprehensive list of all of the
+possible UCR courses which will satisfy College of Engineering breadth
+requirements; additional course choices are available after transfer.)
+                                                                                
+Advanced Placement coursework may be accepted in lieu of some English
+Composition, Humanities, and Social Science courses.Consult the College of
+Engineering at
+http://student.engr.ucr.edu/policies/requirements/breadth.html
+                                                                                
+or call the College at (951) 827-3647 for more information.                     
+                                                                                
+--------------------------------------------------------------------------------
+A.  ENGLISH COMPOSITION.  Complete a one year sequence:           
+                                                                                
+ENGL 1A &  Beginning Composition      (4)|ENGL 1A    University-Parallel     (3)
+ENGL 1B &  Intermediate Composition   (4)|           Reading and Composition 
+ENGL 1C    Applied Intermediate       (4)|    --AND one of the following-- 
+           Composition                   |ENGL 1B    Reading, Writing and    (3)
+                                         |           Critical Thinking about 
+(Note:  A score of 3 on the AP English   |           Literature 
+Language/Composition or the English      |   OR
+Literature/Composition exam will satisfy |ENGL 1C    Advanced Composition    (3)
+English 1A.  A score of 4 or 5 on either |                                      
+exam will also satisfy English 1B.)      |                                      
+                                         |                                      
+--------------------------------------------------------------------------------
+                                                                                
+B.  HUMANITIES.  Three courses total (one to be completed at UCR, as upper
+division.
+
+1.  One course from among:                                               
+                                                                                
+HIST 10    World History: Prehistory  (4)|No Course Articulated 
+           to 1500                       |                                      
+                   OR                    |                  OR                  
+HIST 15    World History: 1500 to     (4)|No Course Articulated 
+           1900                          |                                      
+                   OR                    |                  OR                  
+HIST 20    World History: Twentieth   (4)|No Course Articulated 
+           Century                       |                                      
+--------------------------------------------------------------------------------
+2.  One course from among:                                               
+                                                                                
+AHS 7    World Art: Images, Issues    (4)|(No Course Articulated; to be taken at
+         and Ideas                       |UCR) 
+                   OR                    |                  OR                  
+AHS 8    Modern Western Visual        (4)|ART 109    History of Contemporary (3)
+         Culture                         |           Art 
+                   OR                    |                  OR                  
+AHS 15    Arts of Asia                (4)|ART 104    Asian Art History       (3)
+                   OR                    |                  OR                  
+AHS 17A    Western Art: Prehistory to (4)|ART 101    Western Art History     (3)
+           Byzantine                     |                                      
+                   OR                    |                  OR                  
+AHS 17C    Western Art: Baroque to    (4)|ART 103    History of Modern Art   (3)
+           Modern                        |                                      
+                   OR                    |                  OR                  
+MCS 23    Intro to Media Art          (4)|No Course Articulated 
+   Same as: AHS 20                       |                                      
+  OR                                     |                                      
+AHS 20    Intro to Media Art          (4)|                                      
+   Same as: MCS 23                       |                                      
+                   OR                    |                  OR                  
+AHS 21    Intro to Architechture and  (4)|No Course Articulated 
+          Urbanism                       |                                      
+                   OR                    |                  OR                  
+AHS 27    Art of Pre-Columbian        (4)|ART 105    Ancient Art and         (3)
+          America                        |           Architecture of Latin 
+   Same as: ANTH 27                      |           America 
+                   OR                    |                  OR                  
+CPLT 17A    Masterworks of World      (4)|ENGL 44A    Survey of World        (3)
+            Literature                   |            Literature, Part I: 
+                                         |            Ancient, Medieval, and 
+                                         |            Early Modern 
+                   OR                    |                  OR                  
+CPLT 17C    Masterworks of World      (4)|ENGL 44B    Survey of World        (3)
+            Literature                   |            Literature, Part II: 
+                                         |            Early Modern to the 
+                                         |            Present 
+                   OR                    |                  OR                  
+CRWT 56    Intro to Creative Writing  (4)|No Course Articulated 
+                   OR                    |                  OR                  
+ENGL 12A    Intro to Poetry           (4)|ENGL 43    Introduction to the     (3)
+                                         |           Study of Poetry 
+                   OR                    |                  OR                  
+ENGL 12B    Intro to Fiction          (4)|No Course Articulated 
+                   OR                    |                  OR                  
+ENGL 12C    Intro to Drama            (4)|ENGL 53    The Development of the  (3)
+                                         |           Drama in English: 
+                                         |           Medieval to Early 
+                                         |           Modern 
+                   OR                    |                  OR                  
+ENGL 14    Major American Writers     (4)|No Course Articulated 
+                   OR                    |                  OR                  
+ENGL 15    Modern Literature          (4)|No Course Articulated 
+                   OR                    |                  OR                  
+ENGL 17    Shakespeare                (4)|IDST 38    Shakespeare: "For All   (3)
+                                         |           Time" 
+                                         |   OR 
+                                         |ENGL 52    Shakespeare             (3)
+                   OR                    |                  OR                  
+ENGL 20A    Intro to British Literary (5)|ENGL 46A    Survey of English      (3)
+            Tradition                    |            Literature: Chaucer 
+                                         |            through Milton 
+                                         |   OR 
+                                         |ENGL 46B    Survey of Literature   (3)
+                                         |            in English, Part 2: 
+                                         |            Late-17th through the 
+                                         |            Mid-19th Century 
+                   OR                    |                  OR                  
+ENGL 20B    Intro to American         (5)|ENGL 30B    American Literature,   (3)
+            Literary Traditions          |            1865 - Present 
+                   OR                    |                  OR                  
+ETST 12    Religious Myths and        (4)|ANTH 8    Magic, Witchcraft, and   (3)
+           Rituals                       |          Religion 
+   Same as: RLST 12                      |                                      
+   OR                                    |                                      
+RLST 12    Religious Myths and        (4)|                                      
+           Rituals                       |                                      
+   Same as: ETST 12                      |                                      
+                   OR                    |                  OR                  
+ETST 14    Popular Musics of the      (4)|No Course Articulated 
+           World                         |                                      
+   Same as: MUS 14                       |                                      
+   OR                                    |                                      
+MUS 14     Popular Musics of the      (4)|                                      
+           World                         |                                      
+   Same as: ETST 14                      |                                      
+                                                                                
+(Note: Completion of either ETST 12 or ETST 14 will also satisfy the campus
+graduation requirement in Ethnicity).
+                   OR                    |                  OR                  
+MUS 2    Intro to Western Music       (4)|MUS 27A    Music Appreciation      (3)
+                   OR                    |                  OR                  
+MUS 6     Intro to World Music        (4)|No Course Articulated 
+   Same as: ANTH 6                       |                                      
+  OR                                     |                                      
+ANTH 6    Intro to World Music        (4)|                                      
+   Same as: MUS 6                        |                                      
+                   OR                    |                  OR                  
+MUS 8    Popular Music Cultures of    (4)|MUS 26    Music in American        (3)
+         the United States               |          Culture 
+                   OR                    |                  OR                  
+PHIL 1    Intro to Philosophy         (4)|PHIL 4    Introduction to          (3)
+                                         |          Philosophy: Knowledge 
+                                         |          and Its Limits 
+                   OR                    |                  OR                  
+PHIL 2    Contemporary Moral Issues   (4)|No Course Articulated 
+                   OR                    |                  OR                  
+PHIL 3    Ethics and the Meaning of   (4)|PHIL 2    Introduction to          (3)
+          Life                           |          Philosophy: Moral and 
+                                         |          Political Philosophy 
+                   OR                    |                  OR                  
+PHIL 7    Intro to Critical Thinking  (4)|PHIL 40    Logic: An Introduction  (3)
+                                         |           to Critical Thinking 
+                   OR                    |                  OR                  
+PHIL 8    Intro to Logic              (4)|PHIL 12A    Symbolic Logic         (5)
+(This is a course in symbolic logic.)    |   OR 
+                                         |PHIL 12B    Symbolic Logic         (3)
+                   OR                    |                  OR                  
+RLST 5    Intro to Asian Religions    (4)|No Course Articulated 
+                   OR                    |                  OR                  
+RLST 7    Intro to Western Religions  (5)|No Course Articulated 
+                   OR                    |                  OR                  
+RLST 14    Religion and Science       (5)|No Course Articulated 
+--------------------------------------------------------------------------------
+                                                                                
+3. One upper division course to be completed at UCR.                 
+                                                                                
+                                                                            
+--------------------------------------------------------------------------------
+
+C.  SOCIAL SCIENCES.  Three courses total.                    
+                                                                                
+These requirements will be satisfied through completion of the lower and upper
+division requirements for this major.
+                                                                                
+--------------------------------------------------------------------------------
+                                                                                
+D.  ETHNICITY.  One course.                                       
+                                                                                
+One course dealing with general concepts and issues in the study of race and
+ethnicity in California and the United States.  To satisfy this UC Riverside
+graduation requirement, Information Systems majors are encouraged to complete
+either ETST 12 or ETST 14 as listed above under the Humanities section.  Either
+course will satisfy both a Humanities requirement, and the campus Ethnicity
+requirement.
+                                                                                
+Other options for completing the Ethnicity requirement are:                     
+                                                                                
+ETST 1    Intro to the Study of Race  (4)|HIST 9     Immigrants in American  (3)
+          and Ethnicity                  |           History 
+                                         |   OR 
+                                         |IDST 37    Introduction to Ethnic  (3)
+                                         |           Studies 
+                   OR                    |                  OR                  
+ETST 2    Intro to Chicano Studies in (4)|LALS 1    Latino/a Diaspora: The   (3)
+          Comparative Perspective        |          Impact of Latinos Living 
+                                         |          in the United States 
+                   OR                    |                  OR                  
+ETST 3    Intro to African American   (4)|No Course Articulated 
+          Studies in Comparative         |(Denied: ANTH 16) 
+          Perspective                    |                                      
+                   OR                    |                  OR                  
+ETST 5    Intro to Asian American     (4)|ASAM 27    Asian American Race     (3)
+          Studies in Comparative         |           Relations 
+          Perspective                    |                                      
+                   OR                    |                  OR                  
+ETST 7    Intro to Native American    (4)|No Course Articulated 
+          Studies in Comparative         |                                      
+          Perspective                    |                                      
+--------------------------------------------------------------------------------
+                                                                                
+E.  NATURAL SCIENCES AND MATHEMATICS: 
+1.  Biological Sciences. One Course.                                  
+                                                                            
+BIOL 2    Cellular Basis of Life      (4)|No Course Articulated 
+                   OR                    |                  OR                  
+BIOL 3    Organisms in Their          (4)|BIO 11    The Science of Living    (4)
+          Environment                    |          Organisms 
+                   OR                    |                  OR                  
+BIOL 5A  &  Intro to Cell and         (4)|BIO 100A    General Biology        (6)
+            Molecular Biology            |                                      
+BIOL 5LA    Intro to Cell and         (1)|                                      
+            Molecular Biology Lab        |                                      
+--------------------------------------------------------------------------------
+                                                                                
+2.  Physical Science and Additional Sciences:
+Physical Science.  Complete one course in chemistry or physics:
+                                                                                
+CHEM 1A  &  General Chemistry         (4)|CHEM 101A    General College       (6)
+CHEM 1LA    General Chemistry Lab     (1)|             Chemistry 
+                                         |    OR 
+                                         |CHEM 103A    General Chemistry for (5)
+                                         |             Engineering 
+                   OR                    |                  OR                  
+CHEM 1B  &  General Chemistry         (4)|CHEM 101A    General College       (6)
+CHEM 1LB    General Chemistry Lab     (1)|             Chemistry 
+                                         |    OR 
+                                         |CHEM 103A    General Chemistry for (5)
+                                         |             Engineering 
+                                         |---and--- 
+                                         |CHEM 101B    General College       (5)
+                                         |             Chemistry 
+                   OR                    |                  OR                  
+CHEM 1C  &  General Chemistry         (4)|CHEM 101B    General College       (5)
+CHEM 1LC    General Chemistry Lab     (1)|             Chemistry 
+                   OR                    |                  OR                  
+PHYS 40A    General Physics           (5)|PHYC 4A  &  Classical Mechanics    (3)
+                                         |            for Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4AL    Mechanics Laboratory   (1)
+                                         |            for Scientists and 
+                                         |            Engineers 
+                   OR                    |                  OR                  
+PHYS 40B    General Physics           (5)|PHYC 4A  &  Classical Mechanics    (3)
+                                         |            for Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4AL &  Mechanics Laboratory   (1)
+                                         |            for Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4C  &  Waves and              (3)
+                                         |            Thermodynamics for 
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4CL    Waves and              (1)
+                                         |            Thermodynamics 
+                                         |            Laboratory for 
+                                         |            Scientists and 
+                                         |            Engineers 
+                   OR                    |                  OR                  
+PHYS 40C    General Physics           (5)|PHYC 4B  &  Electromagnetism for   (3)
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4BL    Electromagnetism       (1)
+                                         |            Laboratory for 
+                                         |            Scientists and 
+                                         |            Engineers 
+                   OR                    |                  OR                  
+                                                                             
+3.  Additional Sciences.  Complete two additional courses from among the
+following:
+                                                                                
+BIOL 2    Cellular Basis of Life      (4)|No Course Articulated 
+                                                                                
+(Note:  Do not choose Biol 2 if you have already completed Biol 5A/5LA above as
+your Biological Science).
+                   OR                    |                  OR                  
+BIOL 3    Organisms in Their          (4)|BIO 11    The Science of Living    (4)
+          Environment                    |          Organisms 
+                   OR                    |                  OR                  
+BIOL 5A  &  Intro to Cell and         (4)|BIO 100A    General Biology        (6)
+            Molecular Biology            |                                      
+BIOL 5LA    Intro to Cell and         (1)|                                      
+            Molecular Biology Lab        |                                      
+                   OR                    |                  OR                  
+CHEM 1A  &  General Chemistry         (4)|CHEM 101A    General College       (6)
+CHEM 1LA    General Chemistry Lab     (1)|             Chemistry 
+                                         |    OR 
+                                         |CHEM 103A    General Chemistry for (5)
+                                         |             Engineering 
+                   OR                    |                  OR                  
+CHEM 1B  &  General Chemistry         (4)|CHEM 101A    General College       (6)
+CHEM 1LB    General Chemistry Lab     (1)|             Chemistry 
+                                         |    OR 
+                                         |CHEM 103A    General Chemistry for (5)
+                                         |             Engineering 
+                                         |---and--- 
+                                         |CHEM 101B    General College       (5)
+                                         |             Chemistry 
+                   OR                    |                  OR                  
+CHEM 1C  &  General Chemistry         (4)|CHEM 101B    General College       (5)
+CHEM 1LC    General Chemistry Lab     (1)|             Chemistry 
+                   OR                    |                  OR                  
+ENSC 1    Intro to Environmental      (4)|BIO 31    Introduction to          (3)
+          Science: Natural Resources     |          Environmental Science 
+                                         |   Same as: GEOG 31, SUST 31
+(Note:  A score of 3 on the AP           |                                      
+Environmental Science Exam will satisfy  |                                      
+ENSC 1)                                  |                                      
+                   OR                    |                  OR                  
+GEO 1    The Earth's Crust and        (4)|GEOL 10  &  Physical Geology       (3)
+         Interior                        |GEOL 10L    Physical Geology Lab   (2)
+                   OR                    |                  OR                  
+PHYS 40A    General Physics           (5)|PHYC 4A  &  Classical Mechanics    (3)
+                                         |            for Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4AL    Mechanics Laboratory   (1)
+                                         |            for Scientists and 
+                                         |            Engineers 
+                   OR                    |                  OR                  
+PHYS 40B    General Physics           (5)|PHYC 4A  &  Classical Mechanics    (3)
+                                         |            for Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4AL &  Mechanics Laboratory   (1)
+                                         |            for Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4C  &  Waves and              (3)
+                                         |            Thermodynamics for 
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4CL    Waves and              (1)
+                                         |            Thermodynamics 
+                                         |            Laboratory for 
+                                         |            Scientists and 
+                                         |            Engineers 
+                   OR                    |                  OR                  
+PHYS 40C    General Physics           (5)|PHYC 4B  &  Electromagnetism for   (3)
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4BL    Electromagnetism       (1)
+                                         |            Laboratory for 
+                                         |            Scientists and 
+                                         |            Engineers 
+--------------------------------------------------------------------------------
+                                                                             
+3.  Math, Statistics, Computer Science.  One course.                        
+                                                                                
+This breadth area is satisfied through completion of Math 9A, which is part of
+the required lower division preparation listed above.
+                                                                                
+--------------------------------------------------------------------------------
+END OF MAJOR
+
+

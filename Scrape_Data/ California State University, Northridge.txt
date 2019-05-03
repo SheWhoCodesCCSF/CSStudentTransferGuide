@@ -1,0 +1,169 @@
+
+
+
+
+
+
+
+ ASSIST: By Major Report 
+
+
+
+
+                        Articulation Agreement by Major                         
+                    Effective during the 16-17 Academic Year                    
+     
+                            ====Computer Science====                            
+                                                                                
+      COMPUTER SCIENCE:  B.S., College of Engineering and Computer Science
+                                                                                
+(Upper division transfer students applying as Computer Science majors do not
+have to complete Critical Thinking prior to admission.)
+                                                                                
+Note: No grade lower than a "C" will be accepted on transfer to satisfy Computer
+Science requirements. This agreement displays the lower-division courses
+required in the major: CSU Northridge courses on the left and approved
+(articulated) transfer courses on the right. General education and
+upper-division courses are also necessary for completion of this degree.
+                                                                                
+Computer Science students may benefit by following CSU Northridge GE Plan R
+instead of CSU-GE Breadth or IGETC.  On the ASSIST agreement For General
+Education/Breadth, select General Education: Engineering and Computer Science.
+                                                                                
+Advanced Placement (AP) Exam information for the major in Computer Science:     
+-Score of 4 or 5 on AP Computer Science A satisfies COMP 110/110L               
+-Score of 3 on AP Computer Science AB satisfies COMP 110/110L                   
+-Score of 4 or 5 on AP Computer Science AB satisfies COMP 110/110L & 182/182L   
+-Score of 4, or 5 on AP Math: Calculus AB satisfies MATH 150A                   
+-Score of 3, 4, or 5 on AP Math: Calculus BC satisfies MATH 150A                
+-Score of 4, or 5 on AP Math: Calculus AB + BC satisfies MATH 150A and 150B     
+-Score of 3, 4, or 5 on AP Biology satisfies BIOL 106 & 107 (NOT Labs)          
+-Score of 4 or 5 on AP Chemistry satisfies CHEM 101/101L                        
+-Score of 3, 4, or 5 on AP Physics C:Mechanics satisfies PHYS 220A/220AL        
+-Score of 3, 4, or 5 on AP Physics C:Electricity & Mag satisfies PHYS 220B/220BL
+Consult CSU Northridge catalog for complete AP Exam information.                
+                                                                                
+          THE LOWER DIVISION REQUIREMENTS FOR THIS MAJORS ARE AS FOLLOWS:
+--------------------------------------------------------------------------------
+CSU Northridge is an impacted campus. Refer to Transfer Impaction at:
+www.csun.edu/admissions-records/transfer-impaction
+--------------------------------------------------------------------------------
+COMP 110  &  Introduction to          (3)|CS 111B    Programming             (4)
+             Algorithms and              |           Fundamentals: Java 
+             Programming                 |   OR 
+COMP 110L    Introduction to          (1)|CS 110B    Programming             (4)
+             Algorithms and              |           Fundamentals: C++ 
+             Programming Laboratory      |                                      
+--------------------------------------------------------------------------------
+COMP 122  &  Computer Architecture    (1)|CS 270    Computer Architecture    (4)
+             and Assembly Language       |          with Assembly Language 
+COMP 122L    Computer Architecture    (1)|                                      
+             and Assembly Language       |                                      
+             Lab                         |                                      
+--------------------------------------------------------------------------------
+COMP 182  &  Data Structures and      (3)|CS 111C    Data Structures and     (4)
+             Program Design              |           Algorithms: Java 
+COMP 182L    Data Structures and      (1)|   OR 
+             Program Design Lab          |CS 110C    Data Structures and     (4)
+                                         |           Algorithms: C++ 
+--------------------------------------------------------------------------------
+COMP 222    Computer Organization     (3)|No Course Articulated 
+--------------------------------------------------------------------------------
+COMP 256  &  Discrete Structures for  (3)|MATH 115    Discrete Mathematics   (3)
+             Computer Science            |                                      
+COMP 256L    Discrete Structures for  (1)|                                      
+             Computer Science Lab        |                                      
+--------------------------------------------------------------------------------
+COMP 282    Advanced Data Structures  (3)|No Course Articulated 
+--------------------------------------------------------------------------------
+MATH 150A    Calculus I               (5)|MATH 110A    Calculus I            (5)
+--------------------------------------------------------------------------------
+MATH 150B    Calculus II              (5)|MATH 110B    Calculus II           (5)
+--------------------------------------------------------------------------------
+MATH 262    Introduction to Linear    (3)|MATH 120    Linear Algebra         (3)
+            Algebra                      |                                      
+--------------------------------------------------------------------------------
+PHIL 230    Introduction to Formal    (3)|PHIL 12A    Symbolic Logic         (5)
+            Logic                        |                                      
+--------------------------------------------------------------------------------
+                                                                                
+              Select one of the following science sequences (8-10 units):
+--------------------------------------------------------------------------------
+BIOL 106  &  Biological Principles I  (3)|BIO 100B    General Biology        (6)
+BIOL 106L    Biology Laboratory I     (1)|                                      
+                   AND                   |                 AND                  
+BIOL 107  &  Biological Principles II (3)|BIO 100A    General Biology        (6)
+BIOL 107L    Biology Laboratory II    (1)|                                      
+--------------------------------------------------------------------------------
+CHEM 101  &  General Chemistry I      (4)|CHEM 101A    General College       (6)
+CHEM 101L    General Chemistry I      (1)|             Chemistry 
+             Laboratory                  |                                      
+                   AND                   |                 AND                  
+CHEM 102  &  General Chemistry II     (4)|CHEM 101B    General College       (5)
+CHEM 102L    General Chemistry II     (1)|             Chemistry 
+             Laboratory                  |                                      
+--------------------------------------------------------------------------------
+PHYS 220A  &  Mechanics               (3)|PHYC 4A  &  Classical Mechanics    (3)
+PHYS 220AL    Mechanics Laboratory    (1)|            for Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4AL    Mechanics Laboratory   (1)
+                                         |            for Scientists and 
+                                         |            Engineers 
+                   AND                   |                 AND                  
+PHYS 220B  &  Electricity and         (3)|PHYC 4B  &  Electromagnetism for   (3)
+              Magnetism                  |            Scientists and 
+PHYS 220BL    Electricity and         (1)|            Engineers 
+              Magnetism Laboratory       |PHYC 4BL    Electromagnetism       (1)
+                                         |            Laboratory for 
+                                         |            Scientists and 
+                                         |            Engineers 
+--------------------------------------------------------------------------------
+                                                                                
+                                                                                
+From the following list, select an additional science course with corresponding
+lab outside of the sequence selected above:
+--------------------------------------------------------------------------------
+BIOL 106  &  Biological Principles I  (3)|BIO 100B    General Biology        (6)
+BIOL 106L    Biology Laboratory I     (1)|                                      
+--------------------------------------------------------------------------------
+CHEM 101  &  General Chemistry I      (4)|CHEM 101A    General College       (6)
+CHEM 101L    General Chemistry I      (1)|             Chemistry 
+             Laboratory                  |                                      
+--------------------------------------------------------------------------------
+GEOG 101    The Physical Environment  (3)|GEOG 1    Physical Geography       (3)
+                   AND                   |                 AND                  
+GEOG 102    Physical Geography        (1)|GEOG 1L    Physical Geography      (1)
+            Laboratory                   |           Laboratory 
+--------------------------------------------------------------------------------
+GEOG 103    Weather                   (3)|No Course Articulated 
+                   AND                   |                 AND                  
+GEOG 105    Weather Lab               (1)|No Comparable Lab 
+--------------------------------------------------------------------------------
+GEOL 101 &  Geology of Planet Earth   (3)|GEOL 10  &  Physical Geology       (3)
+GEOL 102    Geology of Planet Earth   (1)|GEOL 10L    Physical Geology Lab   (2)
+            Laboratory                   |                                      
+--------------------------------------------------------------------------------
+GEOL 110 &  Earth and Life Through    (3)|GEOL 11  &  Historical Geology     (3)
+            Time                         |GEOL 11L    Historical Geology Lab (1)
+GEOL 112    Earth and Life Through    (1)|                                      
+            Time Lab                     |                                      
+--------------------------------------------------------------------------------
+PHYS 220A  &  Mechanics               (3)|PHYC 4A  &  Classical Mechanics    (3)
+PHYS 220AL    Mechanics Laboratory    (1)|            for Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4AL    Mechanics Laboratory   (1)
+                                         |            for Scientists and 
+                                         |            Engineers 
+--------------------------------------------------------------------------------
+END OF MAJOR
+IMPORTANT INFORMATION ABOUT ARTICULATION UPDATES: Changes to major preparation
+agreements and new course articulation effective Fall 2017 and beyond are noted
+where applicable.
+                                                                                
+Questions regarding this agreement may be directed to the CSU Northridge
+Articulation Officer at 818-677-7068 or by e-mail at: patty.faiman@csun.edu
+                                                                                
+FOR CSU NORTHRIDGE UNDERGRADUATE ADMISSION REQUIREMENTS REFER TO THE WEB SITE AT
+http://www.csun.edu/anr/applytrf.html
+
+

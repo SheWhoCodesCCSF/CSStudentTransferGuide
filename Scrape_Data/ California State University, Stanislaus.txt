@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+ ASSIST: By Major Report 
+
+
+
+
+                        Articulation Agreement by Major                         
+                    Effective during the 16-17 Academic Year                    
+     
+                            ====Computer Science====                            
+Complete the following prerequisites to the major:                       
+CS 1500    Computer Programming I     (3)|No current articulation 
+CS 2500    Computer Programming II    (3)|No current articulation 
+CS 2700    Assembly Language and      (3)|CS 270    Computer Architecture    (4)
+           Computer Architecture         |          with Assembly Language 
+MATH 1410    Calculus I               (4)|No current articulation 
+MATH 1420    Calculus II              (4)|No current articulation 
+MATH 1600    Statistics               (4)|MATH 80    Probability and         (4)
+                                         |           Statistics 
+                   OR                    |                  OR                  
+MATH 1620    Probability and          (4)|No current articulation 
+             Statistics                  |                                      
+MATH 2300    Discrete Structures      (3)|No current articulation 
+--------------------------------------------------------------------------------
+And any one of the following three sequences:                            
+PHYS 2250    General Physics I        (4)|PHYC 4A &  Classical Mechanics for (3)
+                                         |           Scientists and 
+                                         |           Engineers 
+                                         |PHYC 4B    Electromagnetism for    (3)
+                                         |           Scientists and 
+                                         |           Engineers 
+PHYS 2252    General Physics I        (1)|PHYC 4AL &  Mechanics Laboratory   (1)
+             Laboratory                  |            for Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4BL    Electromagnetism       (1)
+                                         |            Laboratory for 
+                                         |            Scientists and 
+                                         |            Engineers 
+PHYS 2260    General Physics II       (4)|No current articulation 
+PHYS 2262    General Physics II       (1)|                                      
+             Laboratory                  |                                      
+                   OR                    |                  OR                  
+CHEM 1100    General Chemistry I      (4)|CHEM 101A    General College       (6)
+                                         |             Chemistry 
+CHEM 1102    General Chemistry I      (1)|                                      
+             Laboratory                  |                                      
+CHEM 1110    General Chemistry II     (4)|CHEM 101B    General College       (5)
+                                         |             Chemistry 
+CHEM 1112    General Chemistry II     (1)|                                      
+             Laboratory                  |                                      
+                   OR                    |                  OR                  
+BIOL 1050    General Biology I        (4)|No current articulation 
+                   AND                   |                 AND                  
+BIOL 1150    General Biology II       (4)|No current articulation 
+NOTE: Approved course articulation with Biology 1050/1150 is accepted as a
+series only. The Lecture and Lab cannot be transferred seperately for the Major.
+--------------------------------------------------------------------------------
+NOTE: No more than 8 units of CR-graded course work may apply toward  
+      prerequisites to the major.                                           
+--------------------------------------------------------------------------------
+END OF MAJOR
+
+

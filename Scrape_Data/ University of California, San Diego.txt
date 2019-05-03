@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+ ASSIST: By Major Report 
+
+
+
+
+                        Articulation Agreement by Major                         
+                    Effective during the 16-17 Academic Year                    
+                Based on the 16-17 UC Transfer Course Agreement                 
+     
+                       ====CSE: Computer Science B.A.====                       
+DATED MATERIAL, SUBJECT TO CHANGE.  PLEASE CONSULT CURRENT UCSD GENERAL      
+CATALOG FOR ANY ADDITIONAL INFORMATION.                                     
+                                                                                
+Effective Fall 2017, major preparation will be required for this major. For  
+details, visit: http://admissions.ucsd.edu/MajorPrep
+                                                                                
+Effective Fall 2015, the B.S. and B.A. in Computer Science, the B.S. in Computer
+Engineering, and the B.S. in Computer Science with a specialization in
+Bioinformatics are impacted for transfer students. Visit cse.ucsd.edu for
+full information.
+                                                                                
+General advice: Transfer students are advised to complete the following  
+courses for their major before enrolling at UC San Diego. Preparing well for    
+the major helps students move efficiently toward graduation.                    
+                                                                                
+     - Calculus I-for Science and Engineering (Math. 20A)                       
+     - Calculus II-for Science and Engineering (Math. 20B)                      
+     - Calculus and Analytic Geometry (Math. 20C)                               
+     - Linear Algebra (Math. 18)                                                
+     - Two courses chosen from: Mechanics (Physics 2A), Electricity and         
+       Magnetism (Physics 2B), General Chemistry I (Chem 6A), General Chemistry 
+       II (Chem 6B), The Cell (BILD 1), Multicellular Life (BILD 2)             
+     - Highest level of introductory computer programming language course       
+       offered at the community college. For example, CSE 3, 5A, 7, and 8A may  
+       be used to fulfill the lower-division elective requirement;              
+       CSE 8B or 11 fulfill other lower-division requirements.                  
+                                                                                
+Course equivalency: For course equivalencies not listed below, visit the CSE
+Student Affairs Office, CSE Building (EBU3) first floor, or email
+CSEPeerAdviser@eng.ucsd.edu.
+                                                                                
+--------------------------------------------------------------------------------
+CSE 8A    Introduction to Computer    (4)|CS 111A    Introduction to         (4)
+          Science: Java                  |           Programming: Java 
+                   AND                   |                 AND                  
+CSE 8B    Introduction to Computer    (4)|CS 111B    Programming             (4)
+          Science: Java                  |           Fundamentals: Java 
+                   OR                    |                  OR                  
+CSE 11    Introduction to Computer    (4)|CS 111B    Programming             (4)
+          Science and Object-Oriented    |           Fundamentals: Java 
+          Programming: Java              |                                      
+--------------------------------------------------------------------------------
+CSE 12    Basic Data Structures and   (4)|CS 110C    Data Structures and     (4)
+          Object-oriented Design         |           Algorithms: C++ 
+                                         |   OR 
+                                         |CS 111C    Data Structures and     (4)
+                                         |           Algorithms: Java 
+CSE 15L    Software Tools and         (2)|NO COURSE ARTICULATED 
+           Techniques Laboratory         |College has not submitted course for 
+                                         |articulation. 
+CSE 20    Introduction to Discrete    (4)|MATH 115    Discrete Mathematics   (3)
+          Mathematics                    |                                      
+   Same as: MATH 15A                     |                                      
+CSE 21    Mathematics for Algorithm   (4)|NO COURSE ARTICULATED 
+          and Systems                    |College does not offer comparable 
+                                         |course. 
+CSE 30    Computer Organization and   (4)|CS 270    Computer Architecture    (4)
+          Systems Programming            |          with Assembly Language 
+--------------------------------------------------------------------------------
+MATH 20A    Calculus for Science and  (4)|MATH 110A    Calculus I            (5)
+            Engineering                  |                                      
+MATH 20B    Calculus for Science and  (4)|MATH 110B    Calculus II           (5)
+            Engineering                  |                                      
+MATH 20C    Calculus and Analytic     (4)|MATH 110C    Calculus III          (5)
+            Geometry for Science and     |                                      
+            Engineering                  |                                      
+MATH 18    Linear Algebra             (4)|MATH 120    Linear Algebra         (3)
+                                         |   OR 
+                                         |MATH 130    Linear Algebra and     (5)
+                                         |            Differential Equations 
+--------------------------------------------------------------------------------
+Two courses chosen from the following:                                          
+PHYS 2A    Physics-Mechanics          (4)|PHYC 4A    Classical Mechanics for (3)
+                                         |           Scientists and 
+                                         |           Engineers 
+PHYS 2B    Physics-Electricity and    (4)|PHYC 4B    Electromagnetism for    (3)
+           Magnetism                     |           Scientists and 
+                                         |           Engineers 
+CHEM 6A    General Chemistry I        (4)|CHEM 101A    General College       (6)
+                                         |             Chemistry 
+                                         |    OR 
+                                         |CHEM 103A    General Chemistry for (5)
+                                         |             Engineering 
+CHEM 6B    General Chemistry II       (4)|CHEM 101A &  General College       (6)
+                                         |             Chemistry 
+                                         |CHEM 101B    General College       (5)
+                                         |             Chemistry 
+BILD 1    The Cell                    (4)|BIO 100A &  General Biology        (6)
+                                         |BIO 100B    General Biology        (6)
+BILD 2    Multicellular Life          (4)|BIO 100A &  General Biology        (6)
+                                         |BIO 100B    General Biology        (6)
+--------------------------------------------------------------------------------
+END OF MAJOR
+
+

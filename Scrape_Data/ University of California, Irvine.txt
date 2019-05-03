@@ -1,0 +1,181 @@
+
+
+
+
+
+
+
+ ASSIST: By Major Report 
+
+
+
+
+                        Articulation Agreement by Major                         
+                    Effective during the 16-17 Academic Year                    
+                Based on the 16-17 UC Transfer Course Agreement                 
+     
+                 ====Computer Science and Engineering, B.S.====                 
+Students are encouraged to complete as many of the lower-division degree        
+requirements as possible prior to transfer. The lower-division degree
+requirements include:
+                                                                                
+PLEASE NOTE: For Fall 2019 applicants, a minimum grade of B will be required in
+all major prerequisite courses.
+                                                                                
+- one year of approved calculus,                                                
+- one year of calculus-based physics with laboratories (mechanics, electricity,
+  and magnetism),
+- one year of computer programming courses in an object-oriented or higher-level
+programming language. For example Python, Java, C++, data structures, assembly
+language and machine organization. Object-oriented or higher-level programming
+language courses that do not directly articulate to I&C SCI 31-33 can be used to
+satisfy the admissions requirements. Introduction to computer science courses do
+not meet this requirement.
+- one additional approved transferable course for the major (an approved math,
+  science, or CSE course)
+                                                                                
+Transfer students must have a cumulative GPA of 3.0 in required courses.        
+                                                                                
+*Additional computer science courses beyond the two required are strongly
+recommended, particularly those that align with the major of interest. Java,
+Python, and C++ are used in the curriculum; therefore, transfer students should
+plan to learn these languages by studying on their own or by completing related
+programming courses prior to their first quarter at UCI.
+                                                                                
+Students who enroll at UCI in need of completing lower-division course work may
+find that it will take longer than two years to complete their degree. For
+further information, contact The Donald Bren School of Information and Computer
+Sciences at (949) 824-5156 or The Henry Samueli School of Engineering at (949)
+824-4334.
+--------------------------------------------------------------------------------
+NOTE: Students should have I&C SCI 31-33 credit first in order to move further
+into the program here at UCI.
+--------------------------------------------------------------------------------
+NOTE: In fulfillment of the requirements below, a single course may be used
+only once.                                                                      
+--------------------------------------------------------------------------------
+For information about Transfer Credit for Advanced Placement Exams, go          
+to http://www.admissions.uci.edu/applicants/ap_exams.html.
+                                                                                
+For information about Transfer Credit for International Baccalaureate Exams, go
+to http://www.admissions.uci.edu/applicants/ib_exams.html.
+                                                                                
+--------------------------------------------------------------------------------
+                  MAJOR PREPARATION COURSES REQUIRED FOR TRANSFER        
+--------------------------------------------------------------------------------
+MATH 2A &  Single-Variable Calculus   (4)|MATH 110A &  Calculus I            (5)
+MATH 2B    Single-Variable Calculus   (4)|MATH 110B    Calculus II           (5)
+--------------------------------------------------------------------------------
+PHYSICS 7C  &  Classical Physics      (4)|PHYC 4A  &  Classical Mechanics    (3)
+PHYSICS 7LC &  Classical Physics      (1)|            for Scientists and 
+               Laboratory                |            Engineers 
+PHYSICS 7D  &  Classical Physics      (4)|PHYC 4AL &  Mechanics Laboratory   (1)
+PHYSICS 7LD    Classical Physics      (1)|            for Scientists and 
+               Laboratory                |            Engineers 
+                                         |PHYC 4B  &  Electromagnetism for   (3)
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4BL    Electromagnetism       (1)
+                                         |            Laboratory for 
+                                         |            Scientists and 
+                                         |            Engineers 
+--------------------------------------------------------------------------------
+CSE 41 &  Introduction to Programming (4)|CS 131A    Python Programming      (4)
+   Same as: I&C SCI 31                   |(= CSE 41 ONLY) 
+CSE 42 &  Programming with Software   (4)|                                      
+          Libraries                      |                                      
+   Same as: I&C SCI 32                   |                                      
+CSE 43    Intermediate Programming    (4)|                                      
+   Same as: I&C SCI 33                   |                                      
+--------------------------------------------------------------------------------
+Introductory programming courses approved by Information and Computer Sciences:
+--------------------------------------------------------------------------------
+I&C SCI 31 &  Introduction to         (4)|CS 131A    Python Programming      (4)
+              Programming                |(= I&C SCI 31 ONLY) 
+   Same as: CSE 41                       |                                      
+I&C SCI 32 &  Programming with        (4)|                                      
+              Software Libraries         |                                      
+   Same as: CSE 42                       |                                      
+I&C SCI 33    Intermediate            (4)|                                      
+              Programming                |                                      
+   Same as: CSE 43                       |                                      
+                   OR                    |                  OR                  
+I&C SCI 21    Introduction to         (6)|CS 111A &  Introduction to         (4)
+              Computer Science I         |           Programming: Java 
+   Same as: CSE 21                       |CS 111B    Programming             (4)
+                                         |           Fundamentals: Java 
+                   AND                   |                 AND                  
+I&C SCI 22    Introduction to         (6)|CS 111B &  Programming             (4)
+              Computer Science II        |           Fundamentals: Java 
+   Same as: CSE 22                       |CS 111C    Data Structures and     (4)
+                                         |           Algorithms: Java 
+--------------------------------------------------------------------------------
+ONE ADDITIONAL APPROVED TRANSFERABLE COURSE FOR THE MAJOR (AN APPROVED MATH,
+SCIENCE, OR CSE COURSE)
+--------------------------------------------------------------------------------
+                      ADDITIONAL APPROVED COURSES FOR THE MAJOR          
+--------------------------------------------------------------------------------
+Mathematics and Basic Science Courses:                                   
+--------------------------------------------------------------------------------
+MATH 2D    Multivariable Calculus     (4)|MATH 110C    Calculus III          (5)
+--------------------------------------------------------------------------------
+MATH 3A    Introduction to Linear     (4)|MATH 120    Linear Algebra         (3)
+           Algebra                       |   OR 
+                                         |MATH 130    Linear Algebra and     (5)
+                                         |            Differential Equations 
+--------------------------------------------------------------------------------
+MATH 3D    Elementary Differential    (4)|MATH 125    Differential Equations (3)
+           Equations                     |   OR 
+                                         |MATH 130    Linear Algebra and     (5)
+                                         |            Differential Equations 
+--------------------------------------------------------------------------------
+I&C SCI 6B    Boolean Algebra and     (4)|No course articulated 
+              Logic                      | 
+--------------------------------------------------------------------------------
+I&C SCI 6D    Discrete Mathematics    (4)|MATH 115    Discrete Mathematics   (3)
+              for Computer Science       |                                      
+--------------------------------------------------------------------------------
+STATS 67    Introduction to           (4)|No course articulated 
+            Probability and              |                                      
+            Statistics for Computer      |                                      
+            Science                      |                                      
+--------------------------------------------------------------------------------
+Engineering and Computing Topics Courses:                                
+--------------------------------------------------------------------------------
+CSE 31    Introduction to Digital     (4)|No course articulated 
+          Systems                        |                                      
+   Same as: EECS 31                      |                                      
+--------------------------------------------------------------------------------
+CSE 31L    Introduction to Digital    (3)|No course articulated 
+           Logic Laboratory              |                                      
+   Same as: EECS 31L                     |                                      
+--------------------------------------------------------------------------------
+CSE 45C    Programming in C/C++ as a  (4)|No course articulated 
+           Second Language               |                                      
+   Same as: I&C SCI 45C                  |                                      
+--------------------------------------------------------------------------------
+CSE 46    Data Structure              (4)|No course articulated 
+          Implementation and Analysis    |                                      
+   Same as: I&C SCI 46                   |                                      
+--------------------------------------------------------------------------------
+CSE 50    Discrete-Time Signals and   (4)|No course articulated 
+          Systems                        |                                      
+   Same as: EECS 50                      |                                      
+--------------------------------------------------------------------------------
+CSE 70A    Network Analysis I         (4)|ENGN 20  &  Introduction to        (3)
+   Same as: EECS 70A                     |            Circuit Analysis 
+                                         |ENGN 20L    Introduction to        (1)
+                                         |            Circuit Analysis 
+                                         |            Laboratory 
+--------------------------------------------------------------------------------
+CSE 90    Systems Engineering and     (2)|No course articulated 
+          Technical Communications       |                                      
+--------------------------------------------------------------------------------
+IN4MATX 43    Introduction to         (4)|No course articulated 
+              Software Engineering       |                                      
+--------------------------------------------------------------------------------
+                      END OF COMPUTER SCIENCE AND ENGINEERING                   
+--------------------------------------------------------------------------------
+END OF MAJOR
+
+

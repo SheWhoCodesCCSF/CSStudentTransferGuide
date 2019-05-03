@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+ ASSIST: By Major Report 
+
+
+
+
+                        Articulation Agreement by Major                         
+                    Effective during the 16-17 Academic Year                    
+     
+                            ====Computer Science====                            
+                                                                         
+                             * * IMPORTANT NOTICE * *             
+                                                                                
+Students graduating with a Bachelor of Science Computer Science (including all
+concentrations) will not be subject to the University’s Foreign Language
+Graduation Requirement. Students who change major may be subject to the
+University’s Foreign Language Graduation Requirement.                     
+                                                                                
+1.  All students are admitted as Pre-Computer Science Majors. To change to the  
+    Computer Science Major, students who have completed the following lower     
+    division (Pre-Major) requirements are required to complete and submit a     
+    Change of Major form to the Computer Science Department Office along with   
+    transcript copies of: CSC 15, CSC 20, CSC 28, CSC 35, CSC 60, and MATH 26A  
+    or MATH 30, and MATH 26B or MATH 31.                                        
+                                                                                
+2.  Students must take math/science electives to bring the total number of      
+    math/science units to a minimum of 24(excluding CSC 28 and the GE B2        
+    course). Students should consult the department website                     
+    http://www.ecs.csus.edu/csc for detailed advising on math/science
+    requirements.                                                               
+                                                                                
+3.  Course Repeat Policy: Students may repeat a Computer Science course once
+    at most without permission. Additional repeats must be approved by the      
+    instructor and the Department Chair by completing a "Request to Repeat"     
+    petition and submitting it to the Department.                               
+                                                                                
+4.  A grade of "C-" or better is required in all courses applied to the Computer
+    Science major.                                                              
+                                                                                
+--------------------------------------------------------------------------------
+               A. REQUIRED LOWER-DIVISION COMPUTER SCIENCE COURSES:
+--------------------------------------------------------------------------------
+CSC 15    PROGRAM CONCEPT+METHOD I    (3)|CS 110B    Programming             (4)
+                                         |           Fundamentals: C++ 
+                                         |   OR 
+                                         |CS 111B    Programming             (4)
+                                         |           Fundamentals: Java 
+--------------------------------------------------------------------------------
+CSC 20    PROGRAM CONCEPT+METHOD II   (3)|CS 110C    Data Structures and     (4)
+                                         |           Algorithms: C++ 
+                                         |   OR 
+                                         |CS 111C    Data Structures and     (4)
+                                         |           Algorithms: Java 
+--------------------------------------------------------------------------------
+CSC 28    DISCRETE STRUCTURES FOR     (3)|MATH 115    Discrete Mathematics   (3)
+          COMPUTER SCIENCE               |                                      
+--------------------------------------------------------------------------------
+CSC 35    INTRODUCTION TO COMPUTER    (3)|CS 270    Computer Architecture    (4)
+          ARCHITECTURE                   |          with Assembly Language 
+--------------------------------------------------------------------------------
+CSC 60    INTRODUCTION TO SYSTEMS     (3)|NOT ARTICULATED 
+          PROGRAMMING IN UNIX            |                                      
+--------------------------------------------------------------------------------
+                   B. REQUIRED LOWER-DIVISION MATH COURSES:
+--------------------------------------------------------------------------------
+MATH 26A    CALCULUS I SOC+LIFE SCI   (3)|MATH 100A    Short Calculus I      (3)
+                   OR                    |                  OR                  
+MATH 30    CALCULUS I                 (4)|MATH 110A    Calculus I            (5)
+--------------------------------------------------------------------------------
+MATH 26B    CALCULUS II SOC+LIFE SCI  (3)|NOT ARTICULATED 
+                   OR                    |                  OR                  
+MATH 31    CALCULUS II                (4)|MATH 110B    Calculus II           (5)
+--------------------------------------------------------------------------------
+STAT 50    INTRO PROBABILITY+STAT     (4)|NO COMPARABLE COURSE 
+--------------------------------------------------------------------------------
+PHYS 5A    GEN PHYS-MECH,HEAT,SOUND   (4)|PHYC 2A  &  Introductory Physics   (3)
+                                         |PHYC 2AL    Introductory Physics   (1)
+                                         |            Laboratory 
+                   OR                    |                  OR                  
+PHYS 11A    GEN PHYS-MECHANICS        (4)|PHYC 4A  &  Classical Mechanics    (3)
+                                         |            for Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4AL    Mechanics Laboratory   (1)
+                                         |            for Scientists and 
+                                         |            Engineers 
+--------------------------------------------------------------------------------
+                                                                                
+In addition to the above Math and Science courses (minimum of 14 units),        
+students must select from among the following elective courses to bring the     
+total number of Math and Science units to a minimum of 24 units (the course
+selected to satisfy the CSU General Education "Life Science" requirement is
+excluded). At least one elective must be from Math.
+                                                                                
+--------------------------------------------------------------------------------
+MATH 32    CALCULUS III               (4)|MATH 110C    Calculus III          (5)
+--------------------------------------------------------------------------------
+MATH 35    INTRO TO LINEAR ALGEBRA    (3)|MATH 120    Linear Algebra         (3)
+--------------------------------------------------------------------------------
+MATH 45    DIFFERNTL EQUATN SCI+ENGR  (3)|MATH 125    Differential Equations (3)
+--------------------------------------------------------------------------------
+PHYS 5B    GEN PHYS-LGT,ELEC,MAG,MOD  (4)|PHYC 2B  &  Introductory Physics   (3)
+                                         |PHYC 2BL    Introductory Physics   (1)
+                                         |            Laboratory 
+--------------------------------------------------------------------------------
+PHYS 11B    GEN PHYS-HEAT,LIGHT,SOUND (4)|PHYC 4C  &  Waves and              (3)
+                                         |            Thermodynamics for 
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4CL    Waves and              (1)
+                                         |            Thermodynamics 
+                                         |            Laboratory for 
+                                         |            Scientists and 
+                                         |            Engineers 
+--------------------------------------------------------------------------------
+PHYS 11C    GEN PHYS-ELECT,MAG,MOD    (4)|PHYC 4B  &  Electromagnetism for   (3)
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4BL    Electromagnetism       (1)
+                                         |            Laboratory for 
+                                         |            Scientists and 
+                                         |            Engineers 
+--------------------------------------------------------------------------------
+CHEM 1A    GENERAL CHEMISTRY I        (5)|CHEM 101A    General College       (6)
+                                         |             Chemistry 
+--------------------------------------------------------------------------------
+CHEM 1E    GENERAL CHEMISTRY FOR    (3-4)|NOT ARTICULATED 
+           ENGINEERING                   |                                      
+--------------------------------------------------------------------------------
+COMMENTS:                                                                
+                                                                                
+1.  Students considering graduate school or an Engineering Major should take    
+    MATH 30, MATH 31, PHYS 11a and 11C. MATH 30 and 31 provide more options     
+    in taking Math and Science courses. Please consult the department website   
+    http://www.ecs.csus.edu/csc for detailed advising on Math and Science
+    requirements.                                                               
+                                                                                
+2.  Please visit: http://catalog.csus.edu/16-17/programs/csc.html for
+    additional information.                                                     
+--------------------------------------------------------------------------------
+END OF MAJOR
+The above Major Preparation Agreement is subject to periodic change and
+revision. Please check with a counselor every semester to obtain current
+information about possible changes in the articulated courses.
+
+

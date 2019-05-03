@@ -1,0 +1,174 @@
+
+
+
+
+
+
+
+ ASSIST: By Major Report 
+
+
+
+
+                        Articulation Agreement by Major                         
+                    Effective during the 16-17 Academic Year                    
+     
+                            ====Computer Science====                            
+The degree program for the B.S. in Computer Science assumes that students have
+already obtained a working knowledge of personal computing fundamentals and
+applications, including word processing, spreadsheets, database systems, e-mail
+systems, and presentation graphics. Each Computer Science major is required to
+complete a minimum of 120 units, including general education.  A maximum of 6
+units of a grade of "D-"(.7) through "D+"(1.3) can count towards the elective
+track, mathematics and science courses only.  A "C" average (2.0) and a grade of
+"C-"(1.7) or better is required in all courses applied to the major.
+                                                                                
+All Computer Science students must select an elective track aimed at your
+specific career goals.  There are five tracks to choose from: Multimedia &
+Digital Game Technologies Track; Internet & Enterprise Computing Technologies
+Track; Software Engineering Track; Scientific Computing Track; and Customized
+Track.
+                                                                                
+COMPUTER SCIENCE PLACEMENT EXAMINATION                            
+The curriculum begins with a three-course sequence covering concepts of
+programming and data structures. Students may have knowledge of these topics,
+but do not have the courses to transfer, nor AP scores to submit; thus, may take
+the Computer Science Placement Examination to waive one or more of these
+courses. The test may be taken only once, and scores are valid for two
+consecutive semesters.
+                                                                                
+                          LOWER-DIVISION CORE COURSES             
+                                                                                
+CPSC 120    Intro to Programming      (3)|CS 110A    Introduction to         (4)
+                                         |           Programming C++ 
+                                         |   OR 
+                                         |CS 111A    Introduction to         (4)
+                                         |           Programming: Java 
+--------------------------------------------------------------------------------
+CPSC 121    Programming Concepts      (3)|CS 110B    Programming             (4)
+                                         |           Fundamentals: C++ 
+                                         |   OR 
+                                         |CS 111B    Programming             (4)
+                                         |           Fundamentals: Java 
+--------------------------------------------------------------------------------
+CPSC 131    Data Structures Concepts  (3)|CS 110C    Data Structures and     (4)
+                                         |           Algorithms: C++ 
+                                         |   OR 
+                                         |CS 111C    Data Structures and     (4)
+                                         |           Algorithms: Java 
+--------------------------------------------------------------------------------
+CPSC 223C    C Programming            (3)|NO COURSE ARTICULATED 
+                   OR                    |                  OR                  
+CPSC 223H    Visual Basic Programming (3)|CS 112A    Intro to Visual         (4)
+                                         |           Basic.NET 
+                   OR                    |                  OR                  
+CPSC 223J    Java Programming         (3)|NO ARTICULATION 
+                   OR                    |                  OR                  
+CPSC 223N    Visual C# Programming    (3)|NO ARTICULATION 
+                   OR                    |                  OR                  
+CPSC 223P    Python Programming       (3)|CS 131A    Python Programming      (4)
+--------------------------------------------------------------------------------
+CPSC 240    Comp Org & Assembly Lang  (3)|CS 270    Computer Architecture    (4)
+                                         |          with Assembly Language 
+--------------------------------------------------------------------------------
+CPSC 254    Software Dev with Open    (3)|NO ARTICULATION 
+            Source Sys                   |                                      
+--------------------------------------------------------------------------------
+                       MATHEMATICS REQUIREMENTS (18 UNITS)
+Lower-Divsion Courses:                                                   
+                                                                                
+MATH 150A    Calculus I               (4)|MATH 110A    Calculus I            (5)
+--------------------------------------------------------------------------------
+MATH 150B    Calculus II              (4)|MATH 110B    Calculus II           (5)
+--------------------------------------------------------------------------------
+MATH 270A    Mathematical Structures  (3)|NO ARTICULATION 
+             I                           |                                      
+--------------------------------------------------------------------------------
+MATH 270B    Mathematical Structure   (3)|NO ARTICULATION 
+             II                          |                                      
+--------------------------------------------------------------------------------
+The "Scientific Computing Track" requires these additional lower-division math
+courses:
+MATH 250A    Calculus III             (4)|MATH 110C    Calculus III          (5)
+                   AND                   |                 AND                  
+MATH 250B    Intro to Linear Algebra  (4)|MATH 130    Linear Algebra and     (5)
+             and Diff. Equations         |            Differential Equations 
+                                         |   OR 
+                                         |MATH 120 &  Linear Algebra         (3)
+                                         |MATH 125    Differential Equations (3)
+--------------------------------------------------------------------------------
+                                                                                
+SCIENCE AND MATHEMATICS ELECTIVES (12 UNITS)                      
+Minimum number of units required for the Science & Math Electives requirement is
+12 units. Students must choose courses from the following list to total 12
+units. In addition, the 12 units must include at least one LAB course from this
+list.
+                                                                                
+BIOL 101    Elements of Biology       (3)|NO ARTICULATION 
+--------------------------------------------------------------------------------
+#  BIOL 101L    Elements of Biology   (1)|NO ARTICULATION 
+                Lab                      |                                      
+--------------------------------------------------------------------------------
+BIOL 172    Cellular Basis of Life    (4)|NO ARTICULATION 
+--------------------------------------------------------------------------------
+CHEM 120A    General Chemistry        (5)|CHEM 101A    General College       (6)
+                                         |             Chemistry 
+--------------------------------------------------------------------------------
+CHEM 125    Gen Chemistry B Lecture   (3)|NO ARTICULATION 
+--------------------------------------------------------------------------------
+GEOL 101    Physical Geology          (3)|GEOL 10    Physical Geology        (3)
+--------------------------------------------------------------------------------
+GEOL 101L    Physical Geology Lab     (1)|GEOL 10L    Physical Geology Lab   (2)
+--------------------------------------------------------------------------------
+GEOL 201    Earth History             (3)|NO ARTICULATION 
+--------------------------------------------------------------------------------
+GEOL 201L    Earth History Suplmtl    (1)|NO ARTICULATION 
+             Lab                         |                                      
+--------------------------------------------------------------------------------
+MATH 250A    Calculus III             (4)|MATH 110C    Calculus III          (5)
+--------------------------------------------------------------------------------
+MATH 250B    Intro to Linear Algebra  (4)|MATH 130    Linear Algebra and     (5)
+             and Diff. Equations         |            Differential Equations 
+                                         |   OR 
+                                         |MATH 120 &  Linear Algebra         (3)
+                                         |MATH 125    Differential Equations (3)
+--------------------------------------------------------------------------------
+PHYS 225  &  Fundamental Phys;        (3)|PHYC 4A  &  Classical Mechanics    (3)
+             Mechanics                   |            for Scientists and 
+PHYS 225L    Fundamental Physics Lab  (1)|            Engineers 
+                                         |PHYC 4AL    Mechanics Laboratory   (1)
+                                         |            for Scientists and 
+                                         |            Engineers 
+--------------------------------------------------------------------------------
+PHYS 226  &  Fund Phys.Elect +        (3)|PHYC 4B  &  Electromagnetism for   (3)
+             Magnetism                   |            Scientists and 
+PHYS 226L    Fundamental Physics Lab  (1)|            Engineers 
+                                         |PHYC 4BL    Electromagnetism       (1)
+                                         |            Laboratory for 
+                                         |            Scientists and 
+                                         |            Engineers 
+--------------------------------------------------------------------------------
+*PLEASE NOTE: MATH 250A and MATH 250B may not be counted toward both the
+Scientific Computing Track and Science and Mathematics Electives. Students who
+apply these courses toward Science and Mathematics electives may substitute
+advisor-approved 400-level CPSC courses to meet the 15-unit requirement of the
+Scientific Computing Track.
+--------------------------------------------------------------------------------
+      GENERAL EDUCATION REQUIREMENTS FOR THE B.S. COMPUTER SCIENCE PROGRAM
+                                                                                
+Due to the high unit requirements of the Computer Science major, the following
+CSUF General Education requirements are waived:
+      *A.3 Critical Thinking                                                    
+      *B.2 Life Science                                                         
+      *D.2 World Civilizations & Cultures                                       
+      *D.5 Explorations in Social Sciences                                      
+      *E. Lifelong Learning & Self Development                                  
+Additionally, the General Education upper-division requirements for the B.S.
+Computer Science degree is 6 units.
+--------------------------------------------------------------------------------
+END OF MAJOR
+    
+    
+#  GE Areas with this symbol indicate an approved lab course                 
+
+

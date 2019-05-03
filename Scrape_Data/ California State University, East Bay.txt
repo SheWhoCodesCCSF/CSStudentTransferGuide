@@ -1,0 +1,130 @@
+
+
+
+
+
+
+
+ ASSIST: By Major Report 
+
+
+
+
+                        Articulation Agreement by Major                         
+                    Effective during the 16-17 Academic Year                    
+     
+                         ====Computer Science B.S.====                          
+The Computer Science B.S. degree requires a total of 180 quarter units; the
+major consists of 84 quarter units including both lower and upper division
+coursework.
+                                                                                
+**This major qualifies for reception of the STAR Act/SB1440 ASSOCIATE DEGREE FOR
+TRANSFER (AA-T/AS-T).  To learn more visit www.adegreewithaguarantee.com
+California Community College students are strongly encouraged to visit their
+community college's Transfer Center.**
+                                                                                
+For more information on requirements, visit the CSU East Bay website.
+                                                                                
+The following courses are the required lower division (freshman-sophomore) major
+requirements and each course must be completed with a grade of "C" or higher:
+                                                                                
+CS 1160    Introduction to Computer   (4)|CS 110B    Programming             (4)
+           Science I                     |           Fundamentals: C++ 
+                                         |   OR 
+                                         |CS 111B    Programming             (4)
+                                         |           Fundamentals: Java 
+CS 2360    Introduction to Computer   (4)|CS 110C    Data Structures and     (4)
+           Science II                    |           Algorithms: C++ 
+                                         |   OR 
+                                         |CS 111C    Data Structures and     (4)
+                                         |           Algorithms: Java 
+CS 2370    Introduction to Computer   (4)|CS 110C    Data Structures and     (4)
+           Science III                   |           Algorithms: C++ 
+                                         |CS 111C    Data Structures and     (4)
+                                         |           Algorithms: Java 
+                                                                                
+CS 2430    Computer Organization and  (4)|CS 270    Computer Architecture    (4)
+           Assembly Language             |          with Assembly Language 
+           Programming                   |                                      
+                                                                                
+                                                                                
+Note:  Students who have completed courses in C, C++, Java or Pascal should
+contact the Mathematics/Computer Science Department; they may be able to
+substitute their previous coursework for CS 1160 and possibly CS 2360 and 2370.
+                                                                                
+--------------------------------------------------------------------------------
+MATH 1304 &  Calculus I               (4)|MATH 110A &  Calculus I            (5)
+MATH 1305    Calculus II              (4)|MATH 110B    Calculus II           (5)
+                                                                                
+MATH 2101    Elements of Linear       (4)|MATH 130    Linear Algebra and     (5)
+             Algebra                     |            Differential Equations 
+                                         |   OR 
+                                         |MATH 120    Linear Algebra         (3)
+                                                                                
+MATH 2150    Discrete Structures      (4)|MATH 115    Discrete Mathematics   (3)
+--------------------------------------------------------------------------------
+                                                                                
+Questions regarding the major requirements listed above may be directed to the
+Mathematics and Computer Science Student Service Center at (510) 885-4011. For
+upper division (junior-senior) major and option requirements, please see the CSU
+East Bay catalog or visit the department web site.
+                                                                                
+OTHER DEGREE REQUIREMENTS that can be completed prior to transfer:       
+All transfer students must earn at least 60 transferable semester units.  Within
+these 60 semester (90 quarter) units, students are strongly encouraged to
+complete the following:
+                                                                                
+Lower Division Major Course requirements shown above.  Complete as many of the
+lower division courses required for the major as possible.  Many of these
+courses may be double counted as part of the lower division CSU GE-Breadth or
+lower division IGETC requirements.
+                                                                                
+General Education requirements:  Complete all of the lower division CSU
+GE-Breadth or the lower division IGETC requirements at the community college.
+The approved courses for each area can be found at www.ASSIST.org under the
+link "CSU GE-Breadth Certificate Courses" or "IGETC for UC and CSU" for your
+college. Many of these courses can be double counted to meet the major
+requirements shown above.  See your community college counselor for more
+information in regards to having your General Education certified prior to
+transfer.
+                                                                                
+Second Composition requirement can be satisfied by:  1) a course articulated
+with CSU East Bay ENGL 1002; 2) an IGETC Area IB Critical Thinking course; or   
+3) a second, if listed, certified for CSU GE Area A2 (IGETC Area 1A).  This     
+course may meet a GE area requirement as well as the second composition
+requirement.
+                                                                                
+American Institution requirement (US 1, US 2 and US 3):  This requirement is
+normally completed with two courses and can be taken as part of your CSU        
+GE-Breadth 39 semester unit requirements (GE Area D and sometimes Area C) or    
+IGETC (GE Area 3 or 4).  The approved courses can be found at www.ASSIST.org    
+under the link "CSU US History, Constitution, and American Ideals Courses" for
+your college.  See your community college counselor for more information.
+                                                                                
+Cultural Groups/Women requirement:  A course that meets this requirement should
+recognize the contributions to U.S. history or culture made by African
+Americans, Asian Americans, Hispanic Americans, Native Americans, women, or
+gays/lesbians. The course must focus wholly, not partially, on the contributions
+of the groups named above.  This course may meet a GE area requirement as well
+as the cultural groups/women requirement.
+                                                                                
+Performing Arts/Activities requirement:  Courses in this area provide an 
+opportunity to develop an appreciation of the visual and performing arts and    
+physical activities through direct experience.  At least 40% of the class time  
+in these courses must be activity or performance.  It is possible that this     
+course may meet a GE area requirement as well as the performing arts/activities.
+                                                                                
+For information on transfer admission requirements or to apply to CSU East Bay
+go to CSUMentor and complete the online CSU application for admission.
+                                                                                
+--------------------------------------------------------------------------------
+END OF MAJOR
+  
+                                                                                
+Students should meet with a community college counselor for up-to-date
+information on degree requirements and other transfer-related services.
+                                                                                
+**Please note that CSU East Bay will be transitioning from Quarters to Semesters
+in the FALL of 2018**
+
+

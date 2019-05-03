@@ -1,0 +1,143 @@
+
+
+
+
+
+
+
+ ASSIST: By Major Report 
+
+
+
+
+                        Articulation Agreement by Major                         
+                    Effective during the 16-17 Academic Year                    
+     
+                         ====Computer Science B.S.====                          
+                                                                                
+                   THIS IS AN IMPACTED MAJOR AT CAL POLY POMONA   
+                                                                                
+More students apply to this major than can be accommodated, and a supplementary
+admissions process is required by the University and the Department.  Please
+refer to the Office of Admissions & Outreach web site for major-specific
+admission requirements.
+                                                                                
+https://www.cpp.edu/~admissions/transfer/impacted-majors.shtml
+                                                                                
+--------------------------------------------------------------------------------
+                                                                                
+******************IMPORTANT FALL 2019 ADMISSIONS INFORMATION********************
+                                                                             
+Transfer courses articulated with quarter course CS 240 shall be considered to
+satisfy the supplemental course criteria as specified on the Admissions &
+Enrollment Planning website:
+https://www.cpp.edu/~admissions/transfer/impacted-majors.shtml
+                                                                                
+Student agrees he/she may be required to take semester course CS 2400 at Cal
+Poly Pomona after transfer.  
+                                                                                
+-----------------ACCEPTABLE COURSE SUBSTITUTIONS FOR MAT 2250-------------------
+                                                                                
+Beginning with 2018-2019 requirements for the B.S. in Computer Science, transfer
+courses taken prior to Fall 2018 and articulated with MAT 208 are acceptable
+substitutes for MAT 2250 (Linear Algebra with Applications to Differential
+Equations).  Transfer course must contain a minimum of 4 semester units.  This
+course substitution is limited to Computer Science majors and is not valid or
+transferable to any other major.
+                                                                            
+--------------------------------------------------------------------------------
+GENERAL EDUCATION COURSES:                                 
+                                                                                
+Transfer students may satisfy General Education requirements by completing the
+CSU Breadth General Education Certification pattern, the Intersegmental General
+Education Transfer Curriculum (IGETC), or by completing an Associate Degree
+for Transfer (AA-T/AS-T) (www.adegreewithaguarantee.com).  See your California
+community college counselor for more details.
+--------------------------------------------------------------------------------
+REQUIRED SUPPORT COURSES:                                         
+--------------------------------------------------------------------------------
+PHY 131  &  General Physics           (3)|PHYC 4A  &  Classical Mechanics    (3)
+PHY 131L &  General Physics           (1)|            for Scientists and 
+            Laboratory                   |            Engineers 
+PHY 132  &  General Physics           (3)|PHYC 4AL &  Mechanics Laboratory   (1)
+PHY 132L &  General Physics           (1)|            for Scientists and 
+            Laboratory                   |            Engineers 
+PHY 133  &  General Physics           (3)|PHYC 4B  &  Electromagnetism for   (3)
+PHY 133L &  General Physics           (1)|            Scientists and 
+            Laboratory                   |            Engineers 
+PHY 235  &  Introduction to Quantum   (3)|PHYC 4BL &  Electromagnetism       (1)
+            Physics                      |            Laboratory for 
+PHY 235L    Introductory Laboratory   (1)|            Scientists and 
+            on Quantum Physics           |            Engineers 
+                                         |PHYC 4C  &  Waves and              (3)
+                                         |            Thermodynamics for 
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4CL &  Waves and              (1)
+                                         |            Thermodynamics 
+                                         |            Laboratory for 
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4D  &  Modern Physics for     (3)
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4DL    Modern Physics         (1)
+                                         |            Laboratory for 
+                                         |            Scientists and 
+                                         |            Engineers 
+--------------------------------------------------------------------------------
+MAT 114 &  Analytic Geometry and      (4)|MATH 110A &  Calculus I            (5)
+           Calculus I                    |MATH 110B    Calculus II           (5)
+MAT 115 &  Analytic Geometry and      (4)|                                      
+           Calculus II                   |                                      
+MAT 116    Analytic Geometry and      (4)|                                      
+           Calculus III                  |                                      
+--------------------------------------------------------------------------------
+MAT 208    Introduction to Linear     (4)|MATH 120    Linear Algebra         (3)
+           Algebra                       |                                      
+--------------------------------------------------------------------------------
+MAT 214 &  Calculus of Several        (3)|MATH 110C    Calculus III          (5)
+           Variables I                   |                                      
+MAT 215    Calculus of Several        (3)|                                      
+           Variables II                  |                                      
+--------------------------------------------------------------------------------
+BIO 110  &  Life Science              (3)|BIO 11      The Science of Living  (4)
+BIO 111L    Life Science Laboratory   (1)|            Organisms 
+                                         |   OR 
+                                         |BIO 100B    General Biology        (6)
+--------------------------------------------------------------------------------
+REQUIRED CORE COURSES:                                            
+--------------------------------------------------------------------------------
+CS 130 &  Discrete Structures         (4)|CS 270   &  Computer Architecture  (4)
+CS 140 &  Introduction to Computer    (4)|            with Assembly Language 
+          Science                        |CS 110B  &  Programming            (4)
+CS 141 &  Introduction to Programming (4)|            Fundamentals: C++ 
+          and Problem Solving            |CS 110C  &  Data Structures and    (4)
+CS 240 &  Data Structures and         (4)|            Algorithms: C++ 
+          Algorithms I                   |MATH 115    Discrete Mathematics   (3)
+CS 264    Computer Organization and   (4)|   OR 
+          Assembly Programming           |CS 270   &  Computer Architecture  (4)
+                                         |            with Assembly Language 
+                                         |CS 111B  &  Programming            (4)
+                                         |            Fundamentals: Java 
+                                         |CS 111C  &  Data Structures and    (4)
+                                         |            Algorithms: Java 
+                                         |MATH 115    Discrete Mathematics   (3)
+--------------------------------------------------------------------------------
+CS 210    Computer Logic              (4)|Not Articulated 
+--------------------------------------------------------------------------------
+CS 241    Data Structures and         (4)|Not Articulated 
+          Algorithms II                  |                                      
+--------------------------------------------------------------------------------
+CS 256    C++ Programming             (4)|Not Articulated 
+--------------------------------------------------------------------------------
+CS 245    Programming Graphical User  (4)|Not Articulated 
+          Interfaces                     |                                      
+--------------------------------------------------------------------------------
+CS 260    Unix and Scripting          (4)|Not Articulated 
+--------------------------------------------------------------------------------
+MAT 216    Differential Equations     (4)|MATH 125    Differential Equations (3)
+--------------------------------------------------------------------------------
+END OF MAJOR
+
+

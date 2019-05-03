@@ -1,0 +1,165 @@
+
+
+
+
+
+
+
+ ASSIST: By Major Report 
+
+
+
+
+                        Articulation Agreement by Major                         
+                    Effective during the 16-17 Academic Year                    
+                Based on the 16-17 UC Transfer Course Agreement                 
+     
+                         ====Computer Science, B.S.====                         
+                      IMPORTANT INFORMATION--PLEASE NOTE:                
+This articulation agreement lists course-to-course or sequence-to-sequence
+substitutions for preparation in the major. Course exceptions permitted only for
+a particular major are noted as "acceptable for substitution." As noted below,
+completion of a specified subset of major preparation courses is required for
+admission. In addition, transfer students are strongly advised to complete as
+many of the remaining major preparation courses as possible prior to enrolling
+at UCSB. Although completion of the remaining major preparation courses is not
+an admission requirement, completion of these courses will help students move
+more efficiently toward graduation after transfer.
+                                                                                
+To view University of California admission eligibility requirements, please see
+the website: www.admissions.ucsb.edu
+--------------------------------------------------------------------------------
+For additional information about this major, please visit the department’s
+website: www.cs.ucsb.edu
+                                                                                
+ADMISSION SELECTION CRITERIA: Applicants to the Computer Science major who
+complete the equivalent of all the REQUIRED UCSB major preparation courses and
+as many of the STRONGLY RECOMMENDED courses as possible with a major GPA of 3.6
+or higher are the most competitive for admission.
+                                                                                
+Applicants without all of the REQUIRED courses will be reviewed for admission,
+but will have less competitive applications.
+                                                                                
+Courses for the major taken prior to admission must be completed with no grades
+lower than "C".
+                                                                                
+REQUIRED base preparation courses:                                
+-Math 3A, 3B, 4A, 4B                                                            
+-Physics 1, 2, 3, 3L                                                            
+-Computer Science 16, 24, 40                                                    
+                                                                                
+STRONGLY RECOMMENDED advanced preparation courses:                
+-Computer Science 32, 64                                                        
+-Math 6A                                                                        
+                                                                                
+You may attend more than one California community college to earn credit for the
+required major preparation courses if the courses are not offered or if your
+schedule constrains you from completing them at your own campus. However, it is
+better to complete the physics series at a single school.
+--------------------------------------------------------------------------------
+                       REQUIRED BASE PREPARATION COURSES                 
+--------------------------------------------------------------------------------
+MATH 3A    Calculus with              (4)|MATH 110A    Calculus I            (5)
+           Applications, First Course    |                                      
+--------------------------------------------------------------------------------
+MATH 3B    Calculus with              (4)|MATH 110B    Calculus II           (5)
+           Applications, Second          |                                      
+           Course                        |                                      
+--------------------------------------------------------------------------------
+MATH 4A    Linear Algebra with        (4)|MATH 120    Linear Algebra         (3)
+           Applications                  |   OR 
+                                         |MATH 130    Linear Algebra and     (5)
+                                         |            Differential Equations 
+--------------------------------------------------------------------------------
+MATH 4B    Differential Equations     (4)|MATH 125    Differential Equations (3)
+                                         |   OR 
+                                         |MATH 130    Linear Algebra and     (5)
+                                         |            Differential Equations 
+--------------------------------------------------------------------------------
+PHYS 1    Basic Physics               (4)|PHYC 4A  &  Classical Mechanics    (3)
+                                         |            for Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4AL    Mechanics Laboratory   (1)
+                                         |            for Scientists and 
+                                         |            Engineers 
+--------------------------------------------------------------------------------
+PHYS 2    Basic Physics               (4)|PHYC 4A  &  Classical Mechanics    (3)
+                                         |            for Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4AL &  Mechanics Laboratory   (1)
+                                         |            for Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4C  &  Waves and              (3)
+                                         |            Thermodynamics for 
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4CL    Waves and              (1)
+                                         |            Thermodynamics 
+                                         |            Laboratory for 
+                                         |            Scientists and 
+                                         |            Engineers 
+--------------------------------------------------------------------------------
+PHYS 3  &  Basic Physics              (3)|PHYC 4B  &  Electromagnetism for   (3)
+PHYS 3L    Physics Laboratory         (1)|            Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4BL &  Electromagnetism       (1)
+                                         |            Laboratory for 
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4C  &  Waves and              (3)
+                                         |            Thermodynamics for 
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4CL    Waves and              (1)
+                                         |            Thermodynamics 
+                                         |            Laboratory for 
+                                         |            Scientists and 
+                                         |            Engineers 
+--------------------------------------------------------------------------------
+CMPSC 16    Problem Solving with      (4)|CS 110B    Programming             (4)
+            Computers I                  |           Fundamentals: C++ 
+--------------------------------------------------------------------------------
+CMPSC 24    Problem Solving with      (4)|CS 110C    Data Structures and     (4)
+            Computers II                 |           Algorithms: C++ 
+--------------------------------------------------------------------------------
+CMPSC 40    Foundations of Computer   (5)|MATH 115    Discrete Mathematics   (3)
+            Science                      |                                      
+--------------------------------------------------------------------------------
+              STRONGLY RECOMMENDED ADVANCED PREPARATION COURSES          
+--------------------------------------------------------------------------------
+CMPSC 32    Object Oriented Design    (4)|No course articulated 
+            and Implementation           |                                      
+--------------------------------------------------------------------------------
+CMPSC 64    Computer Organization and (4)|CS 270    Computer Architecture    (4)
+            Logic Design                 |          with Assembly Language 
+--------------------------------------------------------------------------------
+MATH 6A    Vector Calculus with       (4)|MATH 110C    Calculus III          (5)
+           Applications, First Course    |                                      
+--------------------------------------------------------------------------------
+                    ADDITIONAL MAJOR PREPARATION COURSES                 
+--------------------------------------------------------------------------------
+CMPSC 48    Computer Science Project  (4)|No course articulated 
+--------------------------------------------------------------------------------
+CMPSC 56    Advanced Applications     (4)|No course articulated 
+            Programming                  |                                      
+--------------------------------------------------------------------------------
+PSTAT 120A    Probability and         (4)|No course articulated 
+              Statistics                 |                                      
+--------------------------------------------------------------------------------
+General Education Information:                                        
+Students should focus on completing major preparation requirements. If time
+permits, students may also take courses to fulfill either UCSB General Education
+requirements or IGETC (Intersegmental General Education Transfer Curriculum).
+Students who will not complete IGETC prior to transfer should refer to the
+College of Engineering General Education articulation agreement at
+www.assist.org. UCSB's General Education requirements do not need to be
+completed prior to transfer, but students who choose to follow College of
+Engineering General Education should complete two to three General Education
+courses prior to transfer. For more information concerning satisfaction of UCSB
+General Education requirements, students may also refer to the College of
+Engineering General University and General Education Program Requirements
+handbook at http://engineering.ucsb.edu/prospective_undergraduates/publications/
+--------------------------------------------------------------------------------
+END OF MAJOR
+
+

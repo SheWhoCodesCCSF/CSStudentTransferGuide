@@ -1,0 +1,129 @@
+
+
+
+
+
+
+
+ ASSIST: By Major Report 
+
+
+
+
+                        Articulation Agreement by Major                         
+                    Effective during the 16-17 Academic Year                    
+     
+                 ====Computer Science, Lower Division B.A.====                  
+                                                                                
+College Admission Requirements for Transfer Students                     
+This major is offered by the College of Letters and Science (L&S).              
+                                                                                
+By the end of the spring term preceding fall enrollment at Berkeley,  
+you must complete:                                                          
+                                                                                
+1) The L&S Requirements in Reading & Composition, Quantitative Reasoning, and
+Foreign Language; OR
+2) IGETC                                                                 
+                                                                                
+Major Requirements:                                                      
+Complete as many lower division major requirements as possible. See details on
+preparation for this major below.
+                                                                                
+Primary selection criteria for admission, in general:                    
+- completion of L&S Requirements (or IGETC), plus                               
+- strength of academic preparation, and                                         
+- grade point average.                                                          
+                                                                                
+For more information on admission to UC Berkeley:                        
+http://admissions.berkeley.edu
+                                                                                
+For more information on majors at UC Berkeley:                           
+Berkeley Academic Guide: http://guide.berkeley.edu
+                                                                                
+--------------------------------------------------------------------------------
+Advice regarding courses in computer science:                            
+                                                                                
+The Computer Science department at Berkeley recognizes the fact that courses
+comparable to Berkeley's computer science 61A-61B-61C series are difficult to   
+find at most community colleges. With few exceptions, transfer students must    
+take CS 61A during their first semester at Berkeley.                            
+                                                                                
+To be competitive for admission purposes, the department advises prospective    
+transfer students to take UC-transferable courses in:                           
+1) All equivalent Mathematics prerequisites:  Math 1A, Math 1B, and Math 54.    
+2) Data structures--even if not officially comparable to Berkeley's CS 61B; and 
+3) Java (preferred) or C++.                                                     
+                                                                                
+The entire Computer Science 61 series is also offered during the Berkeley       
+Summer session.  The department recommends that, when possible, students take
+one of these courses during the summer session prior to transfer.
+                                                                                
+If admitted, transfer students must achieve a 3.30 cumulative GPA in those
+remaining prerequisite courses (CS 61A, CS 61B, and CS 70) taken at UC
+Berkeley in order to petition for admission to the major.
+                                                                                
+Any course/s approved as comparable to COMPSCI 61B must include coverage        
+of object-oriented programming, hashing, heaps, priority queues and graphs,
+together with at least one programming assignment of 1000 or more lines
+of code. If any of these topics is missing, the missing material may be acquired
+by taking a bridge course, COMPSCI 47B, at Berkeley.
+                                                                                
+Any course/s approved as comparable to COMPSCI 70 must include coverage of the
+following topics: propositional logic, proofs, mathematical induction; modular
+arithmetic, gcd, polynomials over finite fields, applications to secret sharing
+and error-correcting codes; discrete probability spaces, events, conditional
+probability, Bayes' rule, random variables, expectation, variance, binomial,
+Poisson and geometric distributions, Chebyshev's inequality, law of large
+numbers, Bayesian inference; continuous random variables, density, exponential
+and Normal distributions, central limit theorem; countability, diagonalization,
+computability, the halting problem.
+                                                                                
+For more information:                                                    
+Center for Student Affairs-CS Advising Office                                   
+(510) 642-7214/664-4436                                                         
+cs-advising@cs.berkeley.edu                                                     
+http://www.eecs.berkeley.edu/csugrad/
+                                                                                
+--------------------------------------------------------------------------------
+COMPSCI 61A    The Structure and      (4)|NO COURSE ARTICULATED 
+               Interpretation of         |                                      
+               Computer Programs         |                                      
+--------------------------------------------------------------------------------
+COMPSCI 61B    Data Structures        (4)|CS 110C    Data Structures and     (4)
+                                         |           Algorithms: C++ 
+                                         |   OR 
+                                         |CS 111C    Data Structures and     (4)
+                                         |           Algorithms: Java 
+                                         |NOTE: Students must also complete UCB 
+                                         |COMPSCI 47B at Berkeley to satisfy 
+                                         |this requirement. 
+                                         |[CCSF CS 110C + UCB COMPSCI 47B taken 
+                                         |at Berkeley; OR CCSF CS 111C + UCB 
+                                         |COMPSCI 47B taken at Berkeley.] 
+--------------------------------------------------------------------------------
+COMPSCI 61C    Machine Structures     (4)|NO COURSE ARTICULATED 
+--------------------------------------------------------------------------------
+COMPSCI 70    Discrete Mathematics    (4)|NO COURSE ARTICULATED 
+              and Probability Theory     |                                      
+--------------------------------------------------------------------------------
+MATH 1A    Calculus                   (4)|MATH 110A    Calculus I            (5)
+--------------------------------------------------------------------------------
+MATH 1B    Calculus                   (4)|MATH 110B    Calculus II           (5)
+--------------------------------------------------------------------------------
+MATH 54    Linear Algebra and         (4)|MATH 130    Linear Algebra and     (5)
+           Differential Equations        |            Differential Equations 
+                                         |   OR 
+                                         |MATH 120 &  Linear Algebra         (3)
+                                         |MATH 125    Differential Equations (3)
+--------------------------------------------------------------------------------
+IMPORTANT INFORMATION ABOUT THIS MAJOR:
+- The course/s cited have been officially accepted by this major and approved
+  by both a Berkeley advisor/faculty member and Berkeley's articulation         
+  officer.                                                                      
+                                                                                
+- Consult ASSIST frequently to obtain current information as this articulation  
+  agreement is subject to periodic revision.                                    
+--------------------------------------------------------------------------------
+END OF MAJOR
+
+

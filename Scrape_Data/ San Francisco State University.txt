@@ -1,0 +1,179 @@
+
+
+
+
+
+
+
+ ASSIST: By Major Report 
+
+
+
+
+                        Articulation Agreement by Major                         
+                    Effective during the 16-17 Academic Year                    
+     
+                         ====Computer Science, B.S.====                         
+                                                                                
+*REQUIREMENT CHANGES - MAJOR PREPARATION AFFECTED*                       
+                                                                                
+For more information, visit                                              
+http://ueap.sfsu.edu/articulation/major-changes
+--------------------------------------------------------------------------------
+                                                                                
+*REQUIREMENT INFORMATION DISPLAYED BELOW IS DATED*                       
+                                                                             
+Review current major requirements here:                              
+http://bulletin.sfsu.edu/programs/
+                                                                                
+Learn about upper division GE and any additional graduation requirements here:
+http://bulletin.sfsu.edu/undergraduate-education/graduation-requirements/
+                                                                                
+--------------------------------------------------------------------------------
+IMPORTANT ADVISORY INFORMATION                                           
+--------------------------------------------------------------------------------
+A foundation in Java programming is required for upper division coursework in
+this major. At SF State, CSC 210 and CSC 220 provide this foundation. Students
+are strongly encouraged to identify and complete courses that include
+instruction in Java programming before transfer.
+--------------------------------------------------------------------------------
+This SF State degree program and the AS-T in Computer Science (SB 1440 degree)
+are similar majors. To view sample 60-unit degree plans for this pathway and all
+SF State ADT (SB 1440) pathways, visit
+http://ueap.sfsu.edu/articulation/roadmaps
+                                                                                
+Students should prioritize completion of any articulated courses below that are
+included in the AS-T curriculum at the community college.
+                                                                                
+NOTE: a course in human biology or general microbiology is required for the
+major. AS-T students who do not take this course before transfer must complete
+it at SF State. See Science Elective section below. 
+                                                                                
+We also recommend that students try to complete the following SF State
+graduation requirements before transfer:
+-- American Institutions requirement (US-1, US-2, US-3)                         
+-- a 2nd-semester/quarter course in written English composition that also
+satisfies CSU GE or IGETC requirements.
+                                                                                
+--------------------------------------------------------------------------------
+NOTE: Courses fulfilling requirements for this major must be taken for a letter
+grade.
+--------------------------------------------------------------------------------
+**Fall 2019: NOT REQUIRED**                                              
+                                                                                
+Second Year Composition Requirement: SF State requires students to take a 2nd
+semester/quarter course in English composition. Completion of this requirement
+is also a prerequisite to the upper division Graduation Writing Assessment
+Requirement (GWAR) course in the major. Students are strongly advised to
+complete a 2nd sem/qtr composition course before transfer; in many majors,
+students must complete the GWAR course in the first semester of their junior
+year.
+                                                                                
+Articulated courses that satisfy this requirement are displayed in the
+"Important Non-Major Requirements" section at the end of this agreement.
+                                                                                
+--------------------------------------------------------------------------------
+                                                                                
+LOWER DIVISION MAJOR REQUIREMENTS                                        
+                                                                                
+**ALERT** Course articulation displayed here is in effect unless otherwise
+noted. For new course articulation effective Fall 2017 and after, visit
+http://ueap.sfsu.edu/articulation/transfer-evaluation-system
+                                                                                
+--------------------------------------------------------------------------------
+Required for Core:                                                       
+--------------------------------------------------------------------------------
+CSC 210    Introduction to Computer   (3)|CS 111B    Programming             (4)
+           Programming                   |           Fundamentals: Java 
+--------------------------------------------------------------------------------
+CSC 220    Data Structures            (3)|CS 111C    Data Structures and     (4)
+                                         |           Algorithms: Java 
+--------------------------------------------------------------------------------
+CSC 230    Discrete Mathematical      (3)|MATH 115    Discrete Mathematics   (3)
+           Structures for Computer       |                                      
+           Science                       |                                      
+--------------------------------------------------------------------------------
+CSC 256    Machine Structures         (3)|CS 270    Computer Architecture    (4)
+                                         |          with Assembly Language 
+--------------------------------------------------------------------------------
+Mathematics and Physics (22 units)                                       
+--------------------------------------------------------------------------------
+MATH 226    Calculus I                (4)|MATH 110A    Calculus I            (5)
+--------------------------------------------------------------------------------
+MATH 227    Calculus II               (4)|MATH 110B    Calculus II           (5)
+--------------------------------------------------------------------------------
+MATH 324    Prob. and Statistics with (3)|No course articulated. 
+            Computing                    |                                      
+The agreement above involves articulation of a lower division course with an
+upper division course at SFSU.  Courses are approved as alike but not
+equivalent.  The course need not be repeated at SFSU, but upper division unit
+minimums of the major and degree still apply.
+                                                                                
+Note:  This statement only applies to articulations between lower division
+courses at transfer institutions and upper division courses at SF State.
+--------------------------------------------------------------------------------
+MATH 325    Linear Algebra            (3)|MATH 120    Linear Algebra         (3)
+The agreement above involves articulation of a lower division course with an
+upper division course at SFSU.  Courses are approved as alike but not
+equivalent.  The course need not be repeated at SFSU, but upper division unit
+minimums of the major and degree still apply.
+                                                                                
+Note:  This statement only applies to articulations between lower division
+courses at transfer institutions and upper division courses at SF State.
+--------------------------------------------------------------------------------
+PHYS 220    General Physics with      (3)|PHYC 4A    Classical Mechanics for (3)
+            Calculus I                   |           Scientists and 
+                                         |           Engineers 
+--------------------------------------------------------------------------------
+PHYS 222    General Physics with      (1)|PHYC 4AL    Mechanics Laboratory   (1)
+            Calculus I Laboratory        |            for Scientists and 
+                                         |            Engineers 
+--------------------------------------------------------------------------------
+PHYS 230    General Physics with      (3)|PHYC 4B    Electromagnetism for    (3)
+            Calculus II                  |           Scientists and 
+                                         |           Engineers 
+--------------------------------------------------------------------------------
+PHYS 232    General Physics with      (1)|PHYC 4BL    Electromagnetism       (1)
+            Calculus II Laboratory       |            Laboratory for 
+                                         |            Scientists and 
+                                         |            Engineers 
+--------------------------------------------------------------------------------
+Science Elective (3 units)                                               
+--------------------------------------------------------------------------------
+BIOL 100    Human Biology             (3)|BIO 9     Human Biology            (4)
+                                         |  OR 
+                                         |BIO 11    The Science of Living    (4)
+                                         |          Organisms 
+                   OR                    |                  OR                  
+BIOL 210    General Microbiology and  (3)|M B 12    Introduction to          (4)
+            Public Health                |          Microbiology 
+--------------------------------------------------------------------------------
+                                                                                
+IMPORTANT NON-MAJOR REQUIREMENT **Fall 2019: NOT REQUIRED**              
+                                                                                
+--------------------------------------------------------------------------------
+ENG 214    Second Year Written        (3)|ENGL 1B    Reading, Writing and    (3)
+           Composition-English           |           Critical Thinking about 
+                                         |           Literature 
+                                         |   OR 
+                                         |ENGL 1C    Advanced Composition    (3)
+                                         |   OR 
+                                         |SPCH 2     Introduction to         (3)
+                                         |           Rhetorical Criticism 
+                                                                                
+                      A minimum grade of C is required.                         
+                   OR                    |                  OR                  
+An Equivalent Course: Course(s) shown here also satisfy SF State's Second Year
+Composition requirement. Completion of the Second Year Composition requirement
+is a prerequisite for enrollment in the Graduation Writing Assessment
+Requirement (GWAR) course after transfer.
+                                                                                
+Second Year Composition Requirement:     |No course articulated 
+                                                                                
+                      A minimum grade of C is required.                         
+--------------------------------------------------------------------------------
+END OF MAJOR
+  
+Questions about this agreement may be sent to artic@sfsu.edu                    
+
+

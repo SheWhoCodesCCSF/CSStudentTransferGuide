@@ -1,0 +1,84 @@
+
+
+
+
+
+
+
+ ASSIST: By Major Report 
+
+
+
+
+                        Articulation Agreement by Major                         
+                    Effective during the 16-17 Academic Year                    
+     
+                         ====Computer Science B.S.====                          
+NOTE: This major has modifications to General Education requirements.  Please
+consult the CSU Chico online catalog
+(http://catalog.csuchico.edu/viewer/GENED/GEMAJORMOD.html) for details.
+--------------------------------------------------------------------------------
+NOTE: A GRADE OF C OR BETTER IS REQUIRED IN ALL COMPUTER SCIENCE (CSCI),
+COMPUTER INFORMATION SYSTEMS (CINS) AND ELECTRICAL/ELECTRONIC ENGINEERING (EECE)
+COURSES USED FOR THIS MAJOR.
+ENROLLMENT IN ANY MATHEMATICS COURSE REQUIRES A GRADE OF C- OR HIGHER IN ALL
+PREREQUISITE COURSES OR THEIR TRANSFER EQUIVALENTS.
+--------------------------------------------------------------------------------
+                     LOWER DIVISION MAJOR CORE REQUIREMENTS              
+--------------------------------------------------------------------------------
+CINS 110    Introductory Web          (3)|CS 110A    Introduction to         (4)
+            Programming                  |           Programming C++ 
+                                         |   OR 
+                                         |CS 111A    Introduction to         (4)
+                                         |           Programming: Java 
+                                         |   OR 
+                                         |CS 112A    Intro to Visual         (4)
+                                         |           Basic.NET 
+--------------------------------------------------------------------------------
+CSCI 111    Programming and           (4)|CS 110A    Introduction to         (4)
+            Algorithms I                 |           Programming C++ 
+                                         |   OR 
+                                         |CS 110B    Programming             (4)
+                                         |           Fundamentals: C++ 
+                                         |   OR 
+                                         |CS 111B    Programming             (4)
+                                         |           Fundamentals: Java 
+--------------------------------------------------------------------------------
+CSCI 211    Programming and           (4)|CS 110C    Data Structures and     (4)
+            Algorithms II                |           Algorithms: C++ 
+                                         |   OR 
+                                         |CS 111C    Data Structures and     (4)
+                                         |           Algorithms: Java 
+--------------------------------------------------------------------------------
+CSCI 217    Foundations of Computing  (3)|MATH 115    Discrete Mathematics   (3)
+                   OR                    |                  OR                  
+MATH 217    Discrete Mathematical     (3)|MATH 115    Discrete Mathematics   (3)
+            Structures                   |                                      
+--------------------------------------------------------------------------------
+EECE 237    Embedded Systems          (3)|NOT ARTICULATED 
+            Development                  |                                      
+--------------------------------------------------------------------------------
+MATH 120    Analytic Geometry and     (4)|MATH 110A    Calculus I            (5)
+            Calculus                     |                                      
+--------------------------------------------------------------------------------
+MATH 121    Analytic Geometry and     (4)|MATH 110B    Calculus II           (5)
+            Calculus                     |                                      
+--------------------------------------------------------------------------------
+PHYS 204A    Physics for Students of  (4)|PHYC 4A  &  Classical Mechanics    (3)
+             Science & Engineering:      |            for Scientists and 
+             Mechanics                   |            Engineers 
+                                         |PHYC 4AL    Mechanics Laboratory   (1)
+                                         |            for Scientists and 
+                                         |            Engineers 
+--------------------------------------------------------------------------------
+PHYS 204B    Physics for Students of  (4)|PHYC 4B  &  Electromagnetism for   (3)
+             Science & Engineering:      |            Scientists and 
+             Electricity and             |            Engineers 
+             Magnetism                   |PHYC 4BL    Electromagnetism       (1)
+                                         |            Laboratory for 
+                                         |            Scientists and 
+                                         |            Engineers 
+--------------------------------------------------------------------------------
+END OF MAJOR
+
+

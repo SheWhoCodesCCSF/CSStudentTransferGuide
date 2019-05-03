@@ -1,0 +1,89 @@
+
+
+
+
+
+
+
+ ASSIST: By Major Report 
+
+
+
+
+                        Articulation Agreement by Major                         
+                    Effective during the 16-17 Academic Year                    
+     
+                         ====Computer Science B.S.====                          
+                                       NOTE                       
+Major Requirement information displayed below is for Academic Year 2016-2017.
+Review current Major Requirements HERE
+--------------------------------------------------------------------------------
+                           IMPORTANT TRANSFER INFORMATION         
+All courses submitted towards either major or minor requirements in the Computer
+Science Department must be taken for a letter grade (A-F).  This includes
+electives in CS and all other courses taken to satisfy the major.  Only those
+classes for which a student has received a C- or better may be used to satisfy
+prerequisite requirements.
+--------------------------------------------------------------------------------
+Lower Division Major Requirements:                                
+--------------------------------------------------------------------------------
+                               MAJOR CORE REQUIREMENTS                   
+--------------------------------------------------------------------------------
+CS 115    Programming I               (4)|CS 110A    Introduction to         (4)
+                                         |           Programming C++ 
+--------------------------------------------------------------------------------
+CS 210    Introduction to UNIX        (1)|CS 160A    Introduction to         (2)
+                                         |           Unix/Linux 
+--------------------------------------------------------------------------------
+CS 215    Programming II              (4)|CS 110B &  Programming             (4)
+                                         |           Fundamentals: C++ 
+                                         |CS 110C    Data Structures and     (4)
+                                         |           Algorithms: C++ 
+--------------------------------------------------------------------------------
+CS 242    Discrete Structures for CS  (4)|No comparable course. 
+--------------------------------------------------------------------------------
+CS 252    Intro to Computer           (4)|No comparable course. 
+          Organization                   |                                      
+--------------------------------------------------------------------------------
+                            REQUIRED SUPPORTING COURSES                  
+--------------------------------------------------------------------------------
+MATH 161    Differential & Integral   (4)|MATH 110A    Calculus I            (5)
+            Calc I                       |                                      
+--------------------------------------------------------------------------------
+Two additional courses from the following (lower division options, see SSU
+catalog for complete list which includes upper division options):
+--------------------------------------------------------------------------------
+MATH 165    Elementary Applied        (4)|MATH 80    Probability and         (4)
+            Statistics                   |           Statistics 
+                                         |   OR 
+                                         |PSYC 5     Statistics for          (5)
+                                         |           Behavioral Sciences 
+                                         |   OR 
+                                         |ECON 5     Introductory Statistics (5)
+                                         |           for Economics, 
+                                         |           Business and Social 
+                                         |           Sciences 
+--------------------------------------------------------------------------------
+MATH 211    Differential & Integral   (4)|MATH 110B    Calculus II           (5)
+            Calc II                      |                                      
+--------------------------------------------------------------------------------
+MATH 222    Elementary Applied Linear (3)|MATH 120    Linear Algebra         (3)
+            Algebra                      |                                      
+--------------------------------------------------------------------------------
+MATH 241    Linear Algebra with       (4)|No comparable course. 
+            Applications in              |                                      
+            Differential Equations       |                                      
+--------------------------------------------------------------------------------
+PHYS 214    Introduction to Physics   (4)|PHYC 4B    Electromagnetism for    (3)
+            II                           |           Scientists and 
+                                         |           Engineers 
+--------------------------------------------------------------------------------
+END OF MAJOR
+  
+This agreement is subject to revision without prior notice.  Please check with a
+counselor every semester to obtain current information about possible changes in
+the agreement.  To learn more about the courses and programs offered at Sonoma
+State University or the upper-division requirements for each major please refer
+to the university catalog at: http://www.sonoma.edu/catalog/
+
+

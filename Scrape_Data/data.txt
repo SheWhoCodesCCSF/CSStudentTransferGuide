@@ -1,0 +1,101 @@
+
+
+
+
+
+
+
+ ASSIST: By Major Report 
+
+
+
+
+The agreement you selected was not available for 16-17. The agreement for 14-15 is shown instead.
+                        Articulation Agreement by Major                         
+                    Effective during the 14-15 Academic Year                    
+     
+                            ====Computer Science====                            
+                  SAN DIEGO STATE UNIVERSITY IS AN IMPACTED CAMPUS       
+                                                                                
+     Due to high demand, admission to SDSU is highly competitive.  General      
+admission information is available at:                                          
+                                                                                
+        http://arweb.sdsu.edu/es/admissions/transfers/index.html                
+                                                                                
+                                                                                
+     For additional information regarding admission to specific majors, please  
+visit the SDSU Transfer Admission Planner (TAP) site:                           
+                                                                                
+        https://sunspot.sdsu.edu/pubred/!tap.disp?p_action=list_majors          
+                                                                                
+--------------------------------------------------------------------------------
+CS 107    Introduction to Computer    (3)|CS 111B    Programming             (3)
+          Programming                    |           Fundamentals: Java 
+--------------------------------------------------------------------------------
++  CS 108    Intermediate Computer    (3)|CS 110C    Data Structures and     (3)
+             Programming                 |           Algorithms: C++ 
+                                         |   OR 
+                                         |CS 111C    Data Structures and     (3)
+                                         |           Algorithms: Java 
+                                         |   OR 
+                                         |CS 110B    Programming             (3)
+                                         |           Fundamentals: C++ 
+--------------------------------------------------------------------------------
+CS 237    Machine Organization and    (3)|No Comparable Course 
+          Assembly Language              |                                      
+--------------------------------------------------------------------------------
+MATH 150    Calculus I                (4)|MATH 110A    Calculus I            (4)
+--------------------------------------------------------------------------------
+MATH 151    Calculus II               (4)|MATH 110B    Calculus II           (4)
+--------------------------------------------------------------------------------
+MATH 245    Discrete Mathematics      (3)|MATH 115    Discrete Mathematics   (3)
+--------------------------------------------------------------------------------
+MATH 254    Introduction to Linear    (3)|MATH 120    Linear Algebra         (3)
+            Algebra                      |                                      
+--------------------------------------------------------------------------------
+STAT 250    Statistical Principles    (3)|No Comparable Course 
+            and Practices                |                                      
+--------------------------------------------------------------------------------
+PHYS 195    Principles of Physics     (3)|PHYC 4A    Physics for Scientists  (3)
+                                         |           and Engineers 
+                   AND                   |                 AND                  
+PHYS 195L    Principles of Physics    (1)|PHYC 4AL    Physics Laboratory for (1)
+             Laboratory                  |            Scientists and 
+                                         |            Engineers 
+                   AND                   |                 AND                  
+PHYS 196    Principles of Physics     (3)|PHYC 4B    Physics for Scientists  (3)
+                                         |           and Engineers 
+                   AND                   |                 AND                  
+PHYS 196L    Principles of Physics    (1)|PHYC 4BL    Physics Laboratory for (1)
+             Laboratory                  |            Scientists and 
+                                         |            Engineers 
+                                                                                
+                                        OR
+                                                                       
+CHEM 200    General Chemistry         (5)|CHEM 101A    General College       (5)
+                                         |             Chemistry 
+                   AND                   |                 AND                  
+CHEM 201    General Chemistry         (5)|CHEM 101B    General College       (5)
+                                         |             Chemistry 
+                                                                                
+                                        OR
+                                                                       
+BIOL 203  &  Principles of Cell and   (3)|BIO 100A    General Biology        (5)
+             Molecular Biology           |                                      
+BIOL 203L    Principles of Cell and   (1)|                                      
+             Molecular Biology           |                                      
+             Laboratory                  |                                      
+                   AND                   |                 AND                  
+BIOL 204    Principles of Organismal  (3)|No Comparable Course 
+            Biology                      |                                      
+                   AND                   |                 AND                  
+BIOL 204L    Principles of Organismal (1)|No Comparable Course 
+             Biology Laboratory          |                                      
+--------------------------------------------------------------------------------
+END OF MAJOR
+    
+    
++  Transfer course(s) acceptable for "substitution" to fulfill SDSU course
+   requirement(s).
+
+

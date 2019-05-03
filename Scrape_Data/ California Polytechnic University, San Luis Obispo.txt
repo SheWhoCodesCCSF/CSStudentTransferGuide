@@ -1,0 +1,252 @@
+
+
+
+
+
+
+
+ ASSIST: By Major Report 
+
+
+
+
+                        Articulation Agreement by Major                         
+                    Effective during the 16-17 Academic Year                    
+     
+                         ====Computer Science, B.S.====                         
+                              College of Engineering                     
+                        Bachelor of Science (B.S.) Degree                       
+                                                                                
+--------------------------------------------------------------------------------
+BY MAJOR:                                                                
+                                                                                
+This major articulation does not contain upper-division or general education 
+coursework necessary for completion of this degree. Refer to the current Cal    
+Poly catalog for further information at:                                        
+                                                                                
+                    http://www.catalog.calpoly.edu                              
+                                                                                
+It is essential that students considering transferring to Cal Poly SLO first    
+review major-specific Transfer Selection Criteria located at:                   
+                                                                                
+         http://admissions.calpoly.edu/applicants/transfer/criteria.html 
+                                                                                
+In subsequently consulting ASSIST, note that information on courses outlined in 
+Transfer Selection Criteria may be located either under Articulation Agreements 
+by Major, or Articulation Agreements by Department.                             
+                                                                                
+The information provided herein is subject to change without notice and does not
+constitute a contract or the terms and conditions of a contract between the     
+student and the institution or the California State University.                 
+                                                                                
+                                                                            
+                                                                                
+ MAJORS MAY REQUIRE:  MAJOR COURSES, CONCENTRATION COURSES AND SUPPORT COURSES
+--------------------------------------------------------------------------------
+                                                                             
+                             --- Major Courses ---         
+                                                                            
+--------------------------------------------------------------------------------
+CSC 101    Fundamentals of Computer   (4)|CS 110A    Introduction to         (4)
+           Science I                     |           Programming C++ 
+   Same as: CPE 101                      |   OR 
+                                         |CS 111A    Introduction to         (4)
+                                         |           Programming: Java 
+--------------------------------------------------------------------------------
+CSC 102    Fundamentals of Computer   (4)|CS 110B    Programming             (4)
+           Science II                    |           Fundamentals: C++ 
+   Same as: CPE 102                      |   OR 
+                                         |CS 111B    Programming             (4)
+                                         |           Fundamentals: Java 
+                   OR                    |                  OR                  
+CSC 108    Accelerated Introduction   (4)|No Articulation Established 
+           to Computer Science           |                                      
+   Same as: CPE 108                      |                                      
+--------------------------------------------------------------------------------
+CPE 101 &  Fundamentals of Computer   (4)|CS 110A &  Introduction to         (4)
+           Science I                     |           Programming C++ 
+   Same as: CSC 101                      |CS 110B    Programming             (4)
+CPE 102    Fundamentals of Computer   (4)|           Fundamentals: C++ 
+           Science II                    |   OR 
+   Same as: CSC 102                      |CS 111A &  Introduction to         (4)
+                                         |           Programming: Java 
+                                         |CS 111B    Programming             (4)
+                                         |           Fundamentals: Java 
+--------------------------------------------------------------------------------
+CPE 101 &  Fundamentals of Computer   (4)|CS 110A &  Introduction to         (4)
+           Science I                     |           Programming C++ 
+   Same as: CSC 101                      |CS 110B &  Programming             (4)
+CPE 102 &  Fundamentals of Computer   (4)|           Fundamentals: C++ 
+           Science II                    |CS 110C    Data Structures and     (4)
+   Same as: CSC 102                      |           Algorithms: C++ 
+CPE 103    Fundamentals of Computer   (4)|   OR 
+           Science III                   |CS 111A &  Introduction to         (4)
+   Same as: CSC 103                      |           Programming: Java 
+                                         |CS 111B &  Programming             (4)
+                                         |           Fundamentals: Java 
+                                         |CS 111C    Data Structures and     (4)
+                                         |           Algorithms: Java 
+--------------------------------------------------------------------------------
+CSC 103    Fundamentals of Computer   (4)|CS 110C    Data Structures and     (4)
+           Science III                   |           Algorithms: C++ 
+   Same as: CPE 103                      |   OR 
+                                         |CS 111C    Data Structures and     (4)
+                                         |           Algorithms: Java 
+--------------------------------------------------------------------------------
+CSC 123    Introduction to Computing  (4)|No Articulation Established 
+   Same as: CPE 123                      |                                      
+--------------------------------------------------------------------------------
+CSC 225    Introduction to Computer   (4)|No Articulation Established 
+           Organization                  |                                      
+   Same as: CPE 225                      |                                      
+--------------------------------------------------------------------------------
+                                                                             
+                            --- Support Courses ---    
+                                                                                
+--------------------------------------------------------------------------------
+ENGL 149    Technical Writing for     (4)|No Articulation Established 
+            Engineers                    |                                      
+   Same as: HNRS 149                     |                                      
+--------------------------------------------------------------------------------
+MATH 141    Calculus I                (4)|MATH 110A    Calculus I            (5)
+   Same as: HNRS 141                     |                                      
+--------------------------------------------------------------------------------
+MATH 142    Calculus II               (4)|MATH 110B    Calculus II           (5)
+   Same as: HNRS 142                     |                                      
+--------------------------------------------------------------------------------
+MATH 141 &  Calculus I                (4)|MATH 110A &  Calculus I            (5)
+   Same as: HNRS 141                     |MATH 110B    Calculus II           (5)
+MATH 142    Calculus II               (4)|                                      
+   Same as: HNRS 142                     |                                      
+--------------------------------------------------------------------------------
+MATH 143    Calculus III              (4)|MATH 110B    Calculus II           (5)
+   Same as: HNRS 143                     |                                      
+--------------------------------------------------------------------------------
+MATH 206    Linear Algebra I          (4)|MATH 120    Linear Algebra         (3)
+                                         |   OR 
+                                         |MATH 130    Linear Algebra and     (5)
+                                         |            Differential Equations 
+                   OR                    |                  OR                  
+MATH 244    Linear Analysis I         (4)|MATH 130    Linear Algebra and     (5)
+   Same as: HNRS 244                     |            Differential Equations 
+                                         |   OR 
+                                         |MATH 120 &  Linear Algebra         (3)
+                                         |MATH 125    Differential Equations (3)
+--------------------------------------------------------------------------------
+Life Science Support Elective (4-5 units):                                      
+(Only lower division listed)                                                    
+--------------------------------------------------------------------------------
+BIO 213  &  Life Science for          (2)|No Articulation Established 
+            Engineers                    |                                      
+BRAE 213    Bioengineering            (2)|                                      
+            Fundamentals                 |                                      
+   Same as: BMED 213                     |                                      
+                   OR                    |                  OR                  
+BIO 213  &  Life Science for          (2)|No Articulation Established 
+            Engineers                    |                                      
+BMED 213    Bioengineering            (2)|                                      
+            Fundamentals                 |                                      
+   Same as: BRAE 213                     |                                      
+                   OR                    |                  OR                  
+BIO 111    General Biology            (4)|BIO 11    The Science of Living    (4)
+                                         |          Organisms 
+                   OR                    |                  OR                  
+BIO 161    Introduction to Cell and   (4)|No Articulation Established 
+           Molecular Biology             |                                      
+                   OR                    |                  OR                  
+BOT 121    General Botany             (4)|BIO 12    Plant Biology            (4)
+                   OR                    |                  OR                  
+MCRO 221    Microbiology              (4)|M B 12    Introduction to          (4)
+                                         |          Microbiology 
+                   OR                    |                  OR                  
+MCRO 224    General Microbiology I    (5)|M B 12    Introduction to          (4)
+                                         |          Microbiology 
+--------------------------------------------------------------------------------
+Mathematics/Statistics Support Elective (4 units):                              
+(Only lower division listed)                                                    
+--------------------------------------------------------------------------------
+MATH 241    Calculus IV               (4)|MATH 110C    Calculus III          (5)
+   Same as: HNRS 241                     |                                      
+--------------------------------------------------------------------------------
+MATH 248    Methods of Proof in       (4)|No Articulation Established 
+            Mathematics                  |                                      
+--------------------------------------------------------------------------------
+Physical Science Support Electives (12 units)                                   
+Select one sequence from:                                                       
+--------------------------------------------------------------------------------
+CHEM 124    General Chemistry for     (4)|CHEM 103A    General Chemistry for (5)
+            Physical Science and         |             Engineering 
+            Engineering I                |    OR 
+                                         |CHEM 101A    General College       (6)
+                                         |             Chemistry 
+                   AND                   |                 AND                  
+CHEM 125    General Chemistry for     (4)|CHEM 101A &  General College       (6)
+            Physical Science and         |             Chemistry 
+            Engineering II               |CHEM 101B    General College       (5)
+                                         |             Chemistry 
+                   AND                   |                 AND                  
+CHEM 126    General Chemistry for     (4)|CHEM 101B    General College       (5)
+            Physical Science and         |             Chemistry 
+            Engineering III              |                                      
+                   OR                    |                  OR                  
+PHYS 141 &  General Physics IA        (4)|PHYC 4A  &  Classical Mechanics    (3)
+   Same as: HNRS 134                     |            for Scientists and 
+PHYS 132 &  General Physics II        (4)|            Engineers 
+   Same as: HNRS 132                     |PHYC 4AL &  Mechanics Laboratory   (1)
+PHYS 133    General Physics III       (4)|            for Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4C  &  Waves and              (3)
+                                         |            Thermodynamics for 
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4CL &  Waves and              (1)
+                                         |            Thermodynamics 
+                                         |            Laboratory for 
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4B  &  Electromagnetism for   (3)
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4BL    Electromagnetism       (1)
+                                         |            Laboratory for 
+                                         |            Scientists and 
+                                         |            Engineers 
+--------------------------------------------------------------------------------
+Additional Science Support Elective (4 units)                                   
+Select from:                                                                    
+--------------------------------------------------------------------------------
+BIO 111    General Biology            (4)|BIO 11    The Science of Living    (4)
+                                         |          Organisms 
+--------------------------------------------------------------------------------
+BIO 161    Introduction to Cell and   (4)|No Articulation Established 
+           Molecular Biology             |                                      
+--------------------------------------------------------------------------------
+BOT 121    General Botany             (4)|BIO 12    Plant Biology            (4)
+--------------------------------------------------------------------------------
+CHEM 124    General Chemistry for     (4)|CHEM 103A    General Chemistry for (5)
+            Physical Science and         |             Engineering 
+            Engineering I                |    OR 
+                                         |CHEM 101A    General College       (6)
+                                         |             Chemistry 
+--------------------------------------------------------------------------------
+MCRO 221    Microbiology              (4)|M B 12    Introduction to          (4)
+                                         |          Microbiology 
+--------------------------------------------------------------------------------
+MCRO 224    General Microbiology I    (5)|M B 12    Introduction to          (4)
+                                         |          Microbiology 
+--------------------------------------------------------------------------------
+PHYS 141    General Physics IA        (4)|PHYC 4A  &  Classical Mechanics    (3)
+   Same as: HNRS 134                     |            for Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4AL    Mechanics Laboratory   (1)
+                                         |            for Scientists and 
+                                         |            Engineers 
+--------------------------------------------------------------------------------
+This information is effective for the academic year (Fall to Summer)         
+2016-2017.  Credit is extended based on the academic year in which the transfer 
+course was taken.  Major programs are dynamic and requirements are subject to   
+change.                                                                     
+--------------------------------------------------------------------------------
+END OF MAJOR
+
+

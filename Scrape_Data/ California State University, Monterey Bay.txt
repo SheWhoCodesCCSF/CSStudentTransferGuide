@@ -1,0 +1,74 @@
+
+
+
+
+
+
+
+ ASSIST: By Major Report 
+
+
+
+
+                        Articulation Agreement by Major                         
+                    Effective during the 16-17 Academic Year                    
+     
+         ====Computer Science B.S., Game Development Concentration====          
+MAJOR PREPARATION INFORMATION FOR COMMUNITY COLLEGE STUDENTS:                   
+To be admitted to CSU Monterey Bay, a community college transfer student must
+have completed 60 transferable credit units, 30 of which must be applicable to
+General Education.
+                                                                                
+General Education requirements:                                                 
+Area A: Oral Communication; Written Communication; Critical Thinking; 9 units.  
+        All courses in Area A must be completed with a grade of C or better
+        before admission.                                                       
+Area B: Physical Science and Life Science, one of which must include a lab;
+        Mathematics; minimum 9 units. Mathematics (B4) must be completed with a 
+        grade of C or better before admission.                                  
+Area C: Fine Arts; Humanities (at least one in each category); 9 units.         
+Area D: Social Sciences (3 different disciplines) to include:                   
+        U.S. History;                                                           
+        U.S. Consstitution and American Institutions, with California state and 
+        local government;                                                       
+        One other social science;                                               
+        9 units                                                                 
+Area E: Lifelong Learning: One course in personal development theory; 3 units.  
+                                                                                
+CSUMB requires the completion of one foreign language to the level of the third
+semester (201). Some high-unit majors are exempt from the language requirement.
+Consult with an advisor for complete information about this requirement.
+--------------------------------------------------------------------------------
+MAJOR PREPARATION:                                                              
+--------------------------------------------------------------------------------
+CST 205    Multimedia Design and      (4)|                                      
+           Programming                   |                                      
+--------------------------------------------------------------------------------
+CST 231    Problem Solving and        (4)|CS 110A    Introduction to         (4)
+           Programming                   |           Programming C++ 
+                                         |   OR 
+                                         |CS 110B    Programming             (4)
+                                         |           Fundamentals: C++ 
+                                         |   OR 
+                                         |CS 111B    Programming             (4)
+                                         |           Fundamentals: Java 
+--------------------------------------------------------------------------------
+CST 238    Introduction to Data       (4)|CS 110C    Data Structures and     (4)
+           Structure                     |           Algorithms: C++ 
+                                         |   OR 
+                                         |CS 111C    Data Structures and     (4)
+                                         |           Algorithms: Java 
+--------------------------------------------------------------------------------
+MATH 150    Calculus I                (4)|MATH 110A    Calculus I            (5)
+--------------------------------------------------------------------------------
+MATH 170    Discrete Mathematics      (4)|MATH 115    Discrete Mathematics   (3)
+--------------------------------------------------------------------------------
+Choose one of:                                                                  
+--------------------------------------------------------------------------------
+MATH 151    Calculus II               (4)|MATH 110B    Calculus II           (5)
+--------------------------------------------------------------------------------
+MATH 270    Mathematics for Computing (4)|                                      
+--------------------------------------------------------------------------------
+END OF MAJOR
+
+

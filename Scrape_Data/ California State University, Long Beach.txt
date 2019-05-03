@@ -1,0 +1,181 @@
+
+
+
+
+
+
+
+ ASSIST: By Major Report 
+
+
+
+
+                        Articulation Agreement by Major                         
+                    Effective during the 16-17 Academic Year                    
+     
+                            ====Computer Science====                            
+Bachelor of Science in Computer Science                                         
+--------------------------------------------------------------------------------
+                 IMPORTANT ADMISSIONS INFORMATION FOR FALL 2017          
+                                                                                
+ALL MAJORS AT CSU LONG BEACH ARE IMPACTED.  As a result, all undergraduate
+majors will have major specific admission requirements in the form of a list of
+major preparation coursework and gpa requirements. Please refer to the
+admissions web site for these major-specific admission details.
+                                                                                
+ADMISSION BASICS: Transfer students may only enter at the upper division
+(junior) level.  You are considered an upper-division transfer student if you
+will have completed 60 or more transferable semester units or 90 transferable
+quarter units by the end of the prior Spring term for Fall entrance or the prior
+Summer term for Spring entrance.  As an upper-division transfer student, you
+must meet minimum CSU admission requirements to be considered for admission, as
+stated on the admissions web site.
+                                                                                
+The CSU GE (General Education) requirements in Written Communication, Oral
+Communication, and Mathematics/Quantitative Reasoning must be completed with a
+grade of 'C' or better by the end of the prior Spring term for Fall admission or
+by the end of the prior Summer term for Spring admission. Please note that
+effective July 1, 2014, Engineering students at CSU Long Beach may receive a
+waiver of the CSU GE Critical Thinking requirement as critical thinking is
+integrated throughout the engineering baccalaureate programs.
+                                                                                
+Major-specific course and gpa requirements for admission as referenced above
+must also be met by these same timelines.
+                                                                                
+--------------------------------------------------------------------------------
+Degree Progress:  Transfer students must complete the following requirements
+within one calendar year of declaring the major: A grade of C or better must be
+achieved in MATH 123 (Calculus II) and PHYS 151 (Mechanics and Heat) within one
+calendar year after transfer to CSULB(if the equivalent was not taken before
+transfer).  Questions can be directed to the College of Engineering Recruitment
+and Retention Center at (562) 985-1800 or coe-admit@csulb.edu.
+--------------------------------------------------------------------------------
+LOWER DIVISION MAJOR REQUIREMENTS  The courses listed below make up the lower
+division major requirements for this specific major and this catalog year.
+Students are encouraged to take as many of these courses prior to transfer as
+possible to promote timely completion of the degree at CSULB.  BE AWARE:  The
+courses on this list may not all be required for admission, but are required for
+the award of the bachelor's degree. Refer to the information and links provided
+above for major-specific admission requirements.
+--------------------------------------------------------------------------------
+Lower Division Major Requirements:                                              
+--------------------------------------------------------------------------------
+A grade of 'C' or better is required in all courses.                            
+--------------------------------------------------------------------------------
+CECS 100    Critical Thinking in the  (3)|No Course Articulated 
+            Digital Information Age      |                                      
+--------------------------------------------------------------------------------
+CECS 105    Introduction to Computer  (1)|No Course Articulated 
+            Engineering and Computer     |                                      
+            Science                      |                                      
+--------------------------------------------------------------------------------
+CECS 174    Introduction to           (3)|CS 110B    Programming             (4)
+            Programming and Problem      |           Fundamentals: C++ 
+            Solving                      |   OR 
+                                         |CS 110A    Introduction to         (4)
+                                         |           Programming C++ 
+--------------------------------------------------------------------------------
+CECS 225    Digital Logic and         (3)|                                      
+            Assembly Programming         |                                      
+--------------------------------------------------------------------------------
+CECS 228    Discrete Structures with  (3)|MATH 115    Discrete Mathematics   (3)
+            Computing Applications       |                                      
+--------------------------------------------------------------------------------
+CECS 229    Discrete Structures with  (3)|No Course Articulated 
+            Computing Applications II    |                                      
+--------------------------------------------------------------------------------
+CECS 274    Object Oriented           (3)|CS 110C    Data Structures and     (4)
+            Programming and Data         |           Algorithms: C++ 
+            Structures                   |   OR 
+                                         |CS 111C    Data Structures and     (4)
+                                         |           Algorithms: Java 
+--------------------------------------------------------------------------------
+CECS 277    Object Oriented           (3)|No Course Articulated 
+            Application Development      |                                      
+--------------------------------------------------------------------------------
+CECS 282    C++ for Java Programmers  (3)|No Course Articulated 
+--------------------------------------------------------------------------------
+ENGR 101    Introduction to           (1)|No Course Articulated 
+            Engineering Profession       |                                      
+   Same as: ENGR 101H                    |                                      
+                                                                                
+ENGR 101 and 102 are substituted for transfer students who have 3 units of CSU
+General Education Area E.
+--------------------------------------------------------------------------------
+ENGR 102    Academic Success Skills   (1)|No Course Articulated 
+   Same as: ENGR 102H                    |                                      
+                                                                                
+ENGR 101 and 102 are substituted for transfer students who have 3 units of CSU
+General Education Area E.
+--------------------------------------------------------------------------------
+MATH 122    Calculus I                (4)|MATH 110A    Calculus I            (5)
+--------------------------------------------------------------------------------
+MATH 123    Calculus II               (4)|MATH 110B    Calculus II           (5)
+--------------------------------------------------------------------------------
+Minimum of 12 units of approved science-electives to include a two-semester
+science sequence. Take either:
+PHYS 151    Mechanics and Heat        (4)|PHYC 4A  &  Classical Mechanics    (3)
+                                         |            for Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4AL    Mechanics Laboratory   (1)
+                                         |            for Scientists and 
+                                         |            Engineers 
+                   AND                   |                 AND                  
+PHYS 152    Electricity and Magnetism (4)|PHYC 4B  &  Electromagnetism for   (3)
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4BL    Electromagnetism       (1)
+                                         |            Laboratory for 
+                                         |            Scientists and 
+                                         |            Engineers 
+                   OR                    |                  OR                  
+PHYS 151    Mechanics and Heat        (4)|PHYC 4A  &  Classical Mechanics    (3)
+                                         |            for Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4AL    Mechanics Laboratory   (1)
+                                         |            for Scientists and 
+                                         |            Engineers 
+                   AND                   |                 AND                  
+E E 210    Electro-Magnetic           (3)|No Course Articulated 
+           Foundations in Electrical     |                                      
+           Engineering                   |                                      
+                   AND                   |                 AND                  
+E E 210L    Electro-Magnetic          (1)|No Course Articulated 
+            Foundations in Electrical    |                                      
+            Engineering Laboratory       |                                      
+                   OR                    |                  OR                  
+CHEM 111A    General Chemistry        (5)|CHEM 101A    General College       (6)
+                                         |             Chemistry 
+                   AND                   |                 AND                  
+CHEM 111B    General Chemistry        (5)|CHEM 101B    General College       (5)
+                                         |             Chemistry 
+Remaining units are to be chosen from the following:                            
+BIOL 153    Introduction to Marine    (3)|No Course Articulated 
+            Biology                      |                                      
+                   OR                    |                  OR                  
+BIOL 200    General Biology           (4)|No Course Articulated 
+                   OR                    |                  OR                  
+BIOL 205    Human Biology             (4)|BIO 9    Human Biology             (4)
+                   OR                    |                  OR                  
+BIOL 207    Human Physiology          (4)|PHYS 1     Introductory Human      (5)
+                                         |           Physiology 
+                                         |   OR 
+                                         |PHYS 12    Introduction to Human   (4)
+                                         |           Physiology 
+--------------------------------------------------------------------------------
+The courses shown above constitute lower-division coursework required for this
+major for this catalog year.  Minimize the number of G.E. (General Education)
+units/courses to only that which is required for CSU Transfer Admissions.
+Maximize your transfer units by taking as many lower-division prerequisites for
+the Major as you can handle.
+                                                                                
+Be advised that lower-division course requirements are subject to change from
+year to year, and catalog rights (actual course requirements) will be
+established for the student effective with the catalog in effect as of the first
+term of matriculation at CSULB.  Questions regarding this agreement may be
+directed to the CSULB Articulation Office at (562) 985-7171 or (562) 985-1746 or
+by email at nor.sharif@csulb.edu
+--------------------------------------------------------------------------------
+END OF MAJOR
+
+

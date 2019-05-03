@@ -1,0 +1,91 @@
+
+
+
+
+
+
+
+ ASSIST: By Major Report 
+
+
+
+
+                        Articulation Agreement by Major                         
+                    Effective during the 16-17 Academic Year                    
+     
+                        ====Computer Science (B.S.)====                         
+                                                                                
+Students entering the Computer Science program must complete the following:
+1.   Earn an overall grade point average of 2.0 or better in courses taken
+outside of the department.
+2.   Earn a grade of "C" or better in each course taken within the department.  
+3.   Earn a grade of "C" or better in all direct and indirect prerequisite
+courses listed in the catalog before advancing to the next level course in a
+sequence for English, Mathematics, and Science courses.
+4.   Students must take capstone course CSC 492 at CSUDH.                       
+                                                                                
+--------------------------------------------------------------------------------
+                                                                                
+                         Lower Division Required Courses          
+                                                                                
+CSC 121    Introduction to Computer   (4)|CS 111B    Programming             (4)
+           Science and Programming I     |           Fundamentals: Java 
+--------------------------------------------------------------------------------
+CSC 123    Introduction to Computer   (4)|CS 111C    Data Structures and     (4)
+           Science and Programming II    |           Algorithms: Java 
+--------------------------------------------------------------------------------
+CSC 221    Assembly Language and      (3)|CS 270    Computer Architecture    (4)
+           Introduction to Computer      |          with Assembly Language 
+           Organization                  |                                      
+--------------------------------------------------------------------------------
+MAT 191    Calculus I                 (5)|MATH 110A    Calculus I            (5)
+--------------------------------------------------------------------------------
+MAT 193    Calculus II                (5)|MATH 110B    Calculus II           (5)
+--------------------------------------------------------------------------------
+MAT 271    Foundations of Higher      (3)|No Course Articulated 
+           Mathematics                   |                                      
+--------------------------------------------------------------------------------
+MAT 281    Discrete Mathematics       (3)|MATH 115    Discrete Mathematics   (3)
+--------------------------------------------------------------------------------
+PHY 130 &  General Physics I          (5)|PHYC 4A  &  Classical Mechanics    (3)
+PHY 132 &  General Physics II         (5)|            for Scientists and 
+PHY 134    General Physics III        (4)|            Engineers 
+                                         |PHYC 4AL &  Mechanics Laboratory   (1)
+                                         |            for Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4B  &  Electromagnetism for   (3)
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4BL &  Electromagnetism       (1)
+                                         |            Laboratory for 
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4C  &  Waves and              (3)
+                                         |            Thermodynamics for 
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4CL    Waves and              (1)
+                                         |            Thermodynamics 
+                                         |            Laboratory for 
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |NOTE: Articulation is approved as a 
+                                         |sequence only. 
+--------------------------------------------------------------------------------
+                                                                                
+NOTE: PHY 134 is not required for this major/option.                 
+--------------------------------------------------------------------------------
+END OF MAJOR
+  
+Thank you for your interest in CSU Dominguez Hills!
+                                                                                
+IMPORTANT INFORMATION ABOUT ARTICULATION UPDATES: Changes to major prep
+agreements and new/terminated course articulation by department effective Fall
+2017 and beyond are noted where applicable.
+                                                                                
+Students are strongly advised to meet regularly with an academic counselor for
+appropriate guidance when selecting courses to meet GE and/or major prep
+transfer requirements. To learn more about the courses and programs offered at
+CSU Dominguez Hills, please refer to the university catalog.
+
+

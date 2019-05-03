@@ -1,0 +1,127 @@
+
+
+
+
+
+
+
+ ASSIST: By Major Report 
+
+
+
+
+The agreement you selected was not available for 16-17. The agreement for 03-04 is shown instead.
+                        Articulation Agreement by Major                         
+                    Effective during the 03-04 Academic Year                    
+     
+                        ====Computer Science (B.S.)====                         
+                     A. LOWER DIVISION MAJOR REQUIREMENTS                
+--------------------------------------------------------------------------------
+CSCI 40    Introduction to            (4)|NO COMPARABLE COURSE 
+           Programming and Problem       |                                      
+           Solving                       |                                      
+--------------------------------------------------------------------------------
+CSCI 41    Introduction to Data       (4)|CS 110B &  Programming             (3)
+           Structures                    |           Fundamentals I 
+                                         |           (CAN CSCI 22)
+                                         |CS 110C    Programming             (3)
+                                         |           Fundamentals II 
+                                         |           (CAN CSCI 24)
+--------------------------------------------------------------------------------
+CSCI 60    Foundations of Computer    (4)|NO COMPARABLE COURSE 
+           Science                       |                                      
+--------------------------------------------------------------------------------
+                       B. ADDITIONAL MAJOR REQUIREMENTS                  
+--------------------------------------------------------------------------------
+MATH 75    Mathematical Analysis I    (4)|MATH 110A    Calculus I            (4)
+           (CAN MATH 18)                 |             (CAN MATH 18)
+           (§ CAN MATH SEQ B)            |             (§ CAN MATH SEQ B)
+           (§ CAN MATH SEQ C)            |             (§ CAN MATH SEQ C)
+--------------------------------------------------------------------------------
+MATH 76    Mathematical Analysis II   (4)|MATH 110B    Calculus II           (4)
+           (CAN MATH 20)                 |             (CAN MATH 20)
+           (§ CAN MATH SEQ B)            |             (§ CAN MATH SEQ B)
+           (§ CAN MATH SEQ C)            |             (§ CAN MATH SEQ C)
+--------------------------------------------------------------------------------
+PHYS 2A    General Physics            (4)|PHYC 2A  &  Introductory Physics   (3)
+           (CAN PHYS 2)                  |            (§ CAN PHYS 2)
+           (§ CAN PHYS SEQ A)            |            (§ CAN PHYS SEQ A)
+                                         |PHYC 2AL    Introductory Physics   (1)
+                                         |            Laboratory 
+                                         |            (§ CAN PHYS 2)
+                                         |            (§ CAN PHYS SEQ A)
+                   AND                   |                 AND                  
+PHYS 2B    General Physics            (4)|PHYC 2B  &  Introductory Physics   (3)
+           (CAN PHYS 4)                  |            (§ CAN PHYS 4)
+           (§ CAN PHYS SEQ A)            |            (§ CAN PHYS SEQ A)
+                                         |PHYC 2BL    Introductory Physics   (1)
+                                         |            Laboratory 
+                                         |            (§ CAN PHYS 4)
+                                         |            (§ CAN PHYS SEQ A)
+                   OR                    |                  OR                  
+PHYS 4A    Mechanics and Wave Motion  (3)|PHYC 4A    Physics for Scientists  (3)
+                                         |           and Engineers 
+                                         |           (§ CAN PHYS 8)
+                                         |           (§ CAN PHYS SEQ B)
+                   AND                   |                 AND                  
+PHYS 4AL    Laboratory in Mechanics   (1)|PHYC 4AL    Physics Laboratory for (1)
+            and Wave Motion              |            Scientists and 
+                                         |            Engineers 
+                                         |            (§ CAN PHYS 8)
+                                         |            (§ CAN PHYS SEQ B)
+                   AND                   |                 AND                  
+PHYS 4B  &  Electricity, Magnetism,   (3)|PHYC 4B  &  Physics for Scientists (3)
+            and Heat                     |            and Engineers 
+PHYS 4BL &  Laboratory in             (1)|            (§ CAN PHYS 12)
+            Electricity, Magnetism,      |            (§ CAN PHYS SEQ B)
+            and Heat                     |PHYC 4BL &  Physics Laboratory for (1)
+PHYS 4C     Light and Modern Physics  (3)|            Scientists and 
+                                         |            Engineers 
+                                         |            (§ CAN PHYS 12)
+                                         |            (§ CAN PHYS SEQ B)
+                                         |PHYC 4C  &  Physics for Scientists (3)
+                                         |            and Engineers 
+                                         |            (§ CAN PHYS 14)
+                                         |            (§ CAN PHYS SEQ B)
+                                         |PHYC 4CL &  Physics Laboratory for (1)
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |            (§ CAN PHYS 14)
+                                         |            (§ CAN PHYS SEQ B)
+                                         |PHYC 4D     Physics for Scientists (3)
+                                         |            and Engineers 
+--------------------------------------------------------------------------------
+                                   C. NOTES                              
+--------------------------------------------------------------------------------
+All courses required as prerequisites for a course must be completed with       
+a grade of "C" or better before registration will be permitted.                 
+--------------------------------------------------------------------------------
+END OF MAJOR
+    
+    
+§  California State University, Fresno MATH 75 + MATH 76 qualified as CAN
+   MATH SEQ B
+   California State University, Fresno MATH 75 + MATH 76 + MATH 77 qualified
+   as CAN MATH SEQ C
+   City College of San Francisco MATH 110A + MATH 110B qualified as CAN MATH
+   SEQ B
+   City College of San Francisco MATH 110A + MATH 110B + MATH 110C qualified
+   as CAN MATH SEQ C
+   California State University, Fresno PHYS 2A + PHYS 2B qualified as CAN
+   PHYS SEQ A
+   City College of San Francisco PHYC 2A + PHYC 2AL qualified as CAN PHYS 2  
+   City College of San Francisco PHYC 2A + PHYC 2AL + PHYC 2B + PHYC 2BL
+   qualified as CAN PHYS SEQ A
+   City College of San Francisco PHYC 2B + PHYC 2BL qualified as CAN PHYS 4  
+   City College of San Francisco PHYC 4A + PHYC 4AL qualified as CAN PHYS 8  
+   City College of San Francisco PHYC 4A + PHYC 4AL + PHYC 4B + PHYC 4BL +
+   PHYC 4C + PHYC 4CL qualified as CAN PHYS SEQ B
+   City College of San Francisco PHYC 4B + PHYC 4BL qualified as CAN PHYS 12 
+   City College of San Francisco PHYC 4C + PHYC 4CL qualified as CAN PHYS 14 
+  
+=============================================================================== 
+THE ABOVE ARTICULATION AGREEMENT IS SUBJECT TO PERIODIC REVISION.  PLEASE       
+CONSULT A COUNSELOR TO OBTAIN CURRENT INFORMATION ABOUT POSSIBLE CHANGES IN     
+THE AGREEMENT.  ALL COURSES MUST BE BACCALAUREATE LEVEL.                        
+
+

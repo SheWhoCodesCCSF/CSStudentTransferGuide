@@ -1,0 +1,82 @@
+
+
+
+
+
+
+
+ ASSIST: By Major Report 
+
+
+
+
+                        Articulation Agreement by Major                         
+                    Effective during the 16-17 Academic Year                    
+     
+                        ====Computer Science - B.S.====                         
+Students in this degree program do not need to take a course in the General
+Education category A4 (Critical Thinking).
+--------------------------------------------------------------------------------
+Required lower-division course(s):                                       
+--------------------------------------------------------------------------------
+CSE 201    Computer Science I         (4)|CS 110B    Programming             (4)
+                                         |           Fundamentals: C++ 
+--------------------------------------------------------------------------------
+CSE 202    Computer Science II        (4)|CS 110C    Data Structures and     (4)
+                                         |           Algorithms: C++ 
+--------------------------------------------------------------------------------
+*  MATH 211 &  Basic Concepts of      (4)|MATH 110A &  Calculus I            (5)
+*              Calculus                  |MATH 110B    Calculus II           (5)
+*  MATH 212 &  Calculus II            (4)|                                      
+*  MATH 213    Calculus III           (4)|                                      
+--------------------------------------------------------------------------------
+MATH 262    Applied Statistics        (4)|No Comparable Course 
+--------------------------------------------------------------------------------
+MATH 272    Discrete Mathematics      (4)|MATH 115    Discrete Mathematics   (3)
+--------------------------------------------------------------------------------
+PHYS 221    General Physics I         (5)|PHYC 4A  &  Classical Mechanics    (3)
+                                         |            for Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4AL    Mechanics Laboratory   (1)
+                                         |            for Scientists and 
+                                         |            Engineers 
+--------------------------------------------------------------------------------
+PHYS 222    General Physics II        (5)|PHYC 4B  &  Electromagnetism for   (3)
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4BL    Electromagnetism       (1)
+                                         |            Laboratory for 
+                                         |            Scientists and 
+                                         |            Engineers 
+--------------------------------------------------------------------------------
+PHYS 223    General Physics III       (5)|PHYC 4C  &  Waves and              (3)
+                                         |            Thermodynamics for 
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4CL    Waves and              (1)
+                                         |            Thermodynamics 
+                                         |            Laboratory for 
+                                         |            Scientists and 
+                                         |            Engineers 
+--------------------------------------------------------------------------------
+In addition, select one course from the following:                       
+--------------------------------------------------------------------------------
+BIOL 100    Topics in Biology         (5)|BIO 11    The Science of Living    (4)
+                                         |          Organisms 
+--------------------------------------------------------------------------------
+BIOL 200    Biology of the Cell       (5)|BIO 100A    General Biology        (6)
+--------------------------------------------------------------------------------
+Select one additional science course, with lab, and not used elsewhere, from
+ASTR, BIOL, CHEM, GEOL, or PHYS (excluding PHYS 100, 121, 122, 123).
+--------------------------------------------------------------------------------
+The courses shown above constitute all lower-division coursework required for
+this major for this catalog year.  In addition, lower-division general education
+coursework is required (select General Education/Breadth on the main menu).
+--------------------------------------------------------------------------------
+END OF MAJOR
+    
+    
+*  A grade of C or better is required if additional calculus courses will be
+   attempted.
+
+

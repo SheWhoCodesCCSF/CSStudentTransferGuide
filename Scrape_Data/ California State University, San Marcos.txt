@@ -1,0 +1,149 @@
+
+
+
+
+
+
+
+ ASSIST: By Major Report 
+
+
+
+
+                        Articulation Agreement by Major                         
+                    Effective during the 16-17 Academic Year                    
+     
+                            ====Computer Science====                            
+All courses counted toward the major, including Preparation for the Major
+courses, must be completed with a grade of C (2.0) or better.
+--------------------------------------------------------------------------------
+                                                                                
+                                                                                
+COMPUTER SCIENCE OPTION                                                  
+--------------------------------------------------------------------------------
+CS 111    Computer Science I          (4)|CS 110B    Programming             (4)
+                                         |           Fundamentals: C++ 
+                                         |   OR 
+                                         |CS 111B    Programming             (4)
+                                         |           Fundamentals: Java 
+--------------------------------------------------------------------------------
+CS 211    Computer Science II         (4)|CS 110C    Data Structures and     (4)
+                                         |           Algorithms: C++ 
+                                         |   OR 
+                                         |CS 111C    Data Structures and     (4)
+                                         |           Algorithms: Java 
+--------------------------------------------------------------------------------
+CS 231    Assembly Language and       (4)|Not Articulated 
+          Digital Circuits               |                                      
+--------------------------------------------------------------------------------
+LOWER-DIVISION NON-COMPUTER SCIENCE SUPPORTING COURSES                          
+--------------------------------------------------------------------------------
+MATH 160    Calculus with             (5)|MATH 110A    Calculus I            (5)
+            Applications, I              |                                      
+--------------------------------------------------------------------------------
+MATH 162    Calculus with             (4)|MATH 110B    Calculus II           (5)
+            Applications, II             |                                      
+--------------------------------------------------------------------------------
+MATH 242    Introduction to           (3)|MATH 80    Probability and         (4)
+            Statistics                   |           Statistics 
+--------------------------------------------------------------------------------
+MATH 264    Introduction to Linear    (3)|MATH 120    Linear Algebra         (3)
+            Algebra                      |                                      
+--------------------------------------------------------------------------------
+MATH 270    Basic Discrete            (3)|Not Articulated 
+            Mathematics                  |                                      
+--------------------------------------------------------------------------------
+PHYS 201 &  Physics of Mechanics and  (4)|PHYC 4A  &  Classical Mechanics    (3)
+            Sound                        |            for Scientists and 
+PHYS 202 &  Physics of                (4)|            Engineers 
+            Electromagnetism and         |PHYC 4AL &  Mechanics Laboratory   (1)
+            Optics                       |            for Scientists and 
+PHYS 203    Modern Physics            (4)|            Engineers 
+                                         |PHYC 4B  &  Electromagnetism for   (3)
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4BL &  Electromagnetism       (1)
+                                         |            Laboratory for 
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4C  &  Waves and              (3)
+                                         |            Thermodynamics for 
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4CL &  Waves and              (1)
+                                         |            Thermodynamics 
+                                         |            Laboratory for 
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4D  &  Modern Physics for     (3)
+                                         |            Scientists and 
+                                         |            Engineers 
+                                         |PHYC 4DL    Modern Physics         (1)
+                                         |            Laboratory for 
+                                         |            Scientists and 
+                                         |            Engineers 
+ARTICULATED IN BLOCK - NO SINGLE COURSE EQUIVALENCY                             
+--------------------------------------------------------------------------------
+                                                                                
+                                                                                
+                                                                                
+COMPUTER INFORMATION SYSTEMS OPTION                                      
+--------------------------------------------------------------------------------
+CS 111    Computer Science I          (4)|CS 110B    Programming             (4)
+                                         |           Fundamentals: C++ 
+                                         |   OR 
+                                         |CS 111B    Programming             (4)
+                                         |           Fundamentals: Java 
+--------------------------------------------------------------------------------
+CS 211    Computer Science II         (4)|CS 110C    Data Structures and     (4)
+                                         |           Algorithms: C++ 
+                                         |   OR 
+                                         |CS 111C    Data Structures and     (4)
+                                         |           Algorithms: Java 
+--------------------------------------------------------------------------------
+CS 231    Assembly Language and       (4)|Not Articulated 
+          Digital Circuits               |                                      
+--------------------------------------------------------------------------------
+LOWER-DIVISION NON-COMPUTER SCIENCE SUPPORTING COURSES                          
+--------------------------------------------------------------------------------
+ECON 201    Principles of             (3)|ECON 3    Principles of            (3)
+            Microeconomics               |          Microeconomics 
+--------------------------------------------------------------------------------
+ECON 202    Principles of             (3)|ECON 1    Principles of            (3)
+            Macroeconomics               |          Macroeconomics 
+--------------------------------------------------------------------------------
+ACCT 201    Introduction to Financial (3)|ACCT 1    Financial Accounting     (5)
+            Accounting                   |                                      
+--------------------------------------------------------------------------------
+ACCT 202    Introduction to           (3)|ACCT 2    Managerial Accounting    (5)
+            Managerial Accounting        |                                      
+--------------------------------------------------------------------------------
+PSYC 100    Introduction to           (3)|PSYC 1    General Psychology       (3)
+            Psychology                   |                                      
+                   OR                    |                  OR                  
+SOC 101    Introduction to Sociology  (4)|SOC 1    Introduction to Sociology (3)
+--------------------------------------------------------------------------------
+MATH 160    Calculus with             (5)|MATH 110A    Calculus I            (5)
+            Applications, I              |                                      
+--------------------------------------------------------------------------------
+MATH 242    Introduction to           (3)|MATH 80    Probability and         (4)
+            Statistics                   |           Statistics 
+--------------------------------------------------------------------------------
+MATH 270    Basic Discrete            (3)|Not Articulated 
+            Mathematics                  |                                      
+--------------------------------------------------------------------------------
+END OF MAJOR
+  
+QUESTIONS REGARDING THIS DOCUMENT CAN BE SENT TO ARTICULATION@CSUSM.EDU         
+FOR CSU SAN MARCOS UNDERGRADUATE ADMISSION REQUIREMENTS REFER TO THE WEB SITE AT
+https://www.csusm.edu/admissions/index.html
+                                                                                
+1. PLEASE CONSULT THE CSU GE-BREADTH SECTION OF ASSIST.ORG (UNDER HELP
+TOPICS) OR YOUR COMMUNITY COLLEGE COUNSELOR FOR ASSISTANCE WITH GENERAL
+EDUCATION REQUIREMENTS IN CONJUNCTION WITH THIS SECTION FOR LOWER-DIVISION MAJOR
+PREPARATION.
+2. ARTICULATION AGREEMENTS DO NOT INDICATE REQUIRED PRE-REQUISITES.             
+3. ARTICULATION AGREEMENTS FOR SUBSEQUENT ACADEMIC YEARS ARE SUBJECT TO
+REVISION.PLEASE CONSULT THE ASSIST WEB SITE FOR EACH SUBSEQUENT, NEW YEAR.
+
+
